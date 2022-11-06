@@ -1,0 +1,15 @@
+# Project information
+site_name: Stancona
+site_url: https://stancona.org/
+site_author: eminboydak.4160
+
+# Repository
+repo_name: eminboydak/stancona
+repo_url: https://github.com/eminboydak/stancona
+
+# Copyright
+copyright: Copyright &copy; 2022 Stancona
+
+# Configuration
+theme:
+  name: material
