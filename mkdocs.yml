@@ -13,20 +13,21 @@ copyright: Copyright &copy; 2023 Stancona
 # Configuration
 theme:
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   palette:
     - scheme: default
-      primary: teal
-      accent: teal
-      toggle:
-        icon: material/brightness-7
-        name: Karanlık moda geç
-    - scheme: slate
-      primary: teal
-      accent: teal
+      primary: deep purple
+      accent: deep orange
       toggle:
         icon: material/brightness-4
         name: Aydınlık moda geç
+    - scheme: slate
+      primary: deep purple
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Karanlık moda geç
+
   font:
     text: Noto Sans
     code: Fira Code
@@ -58,7 +59,7 @@ theme:
     # - search.highlight
     # - search.share
     - search.suggest
-    # - toc.follow
+    - toc.follow
     # - toc.integrate
 
 # Plugins

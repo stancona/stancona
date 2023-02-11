@@ -25,7 +25,7 @@ Guild Wars 2'de sunucu seçiminin WvW dışında bir önemi yoktur. Fakat şöyl
 
 ## Karakter Oluşturma
 
-![](../../assets/images/gw2-baslangic-rehberi/karakter-olusturma.jpg)
+![](../assets/images/gw2-baslangic-rehberi/karakter-olusturma.jpg)
 
 *Tyria'nın beş ırkı. Soldan sağa: Charr, Human, Norn, Asura, Sylvari*
 
@@ -45,105 +45,105 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 ### :gw2-warrior-white: Warrior
 
-![](../../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-warrior.jpg)
+![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-warrior.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
 | **Roller:**       | DPS, Support|
 | **Zırh:**         | Heavy       |
-| **Silahlar:**     |**Two Handed:** Hammer, Greatsword, Longbow, Rifle <br/> **Main Hand:** Sword, Axe, Mace <br/> **Off Hand:** Sword, Axe, Mace, Warhorn, Shield <br/> **Underwater:** Spear, Harpoon Gun |
-| **Alt Sınıflar:** | **Berserker** (Torch kullanımı açılıyor, HoT ek paketi gerekiyor) <br/> **Spellbreaker** (Dagger kullanımı açılıyor, PoF ek paketi gerekiyor) |
+| **Silahlar:**     |**Two Handed:** Hammer, Greatsword, Longbow, Rifle <br> **Main Hand:** Sword, Axe, Mace <br> **Off Hand:** Sword, Axe, Mace, Warhorn, Shield <br> **Underwater:** Spear, Harpoon Gun |
+| **Alt Sınıflar:** | **Berserker** (Torch kullanımı açılıyor, HoT ek paketi gerekiyor) <br> **Spellbreaker** (Dagger kullanımı açılıyor, PoF ek paketi gerekiyor) |
 
 ### :gw2-guardian-white: Guardian
 
-![](../../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-guardian.jpg)
+![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-guardian.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
 | **Roller:**       | DPS, Support, Healer, Tank |
 | **Zırh:**         | Heavy       |
-| **Silahlar:**     |**Two Handed:** Hammer, Greatsword <br/> **Main Hand:** Sword, Mace, Scepter <br/> **Off Hand:** Focus, Torch, Shield <br/> **Underwater:** Spear, Trident |
-| **Alt Sınıflar:** | **Dragonhunter** (Longbow kullanımı açılıyor, HoT ek paketi gerekiyor) <br/> **Firebrand** (Axe kullanımı açılıyor, PoF ek paketi gerekiyor) |
+| **Silahlar:**     |**Two Handed:** Hammer, Greatsword <br> **Main Hand:** Sword, Mace, Scepter <br> **Off Hand:** Focus, Torch, Shield <br> **Underwater:** Spear, Trident |
+| **Alt Sınıflar:** | **Dragonhunter** (Longbow kullanımı açılıyor, HoT ek paketi gerekiyor) <br> **Firebrand** (Axe kullanımı açılıyor, PoF ek paketi gerekiyor) |
 
 ### :gw2-revenant-white: Revenant
 
 !!! warning "Uyarı"
     Bu sınıfı oynamanız için Heart of Thorns ek paketine ihtiyacınız vardır.
 
-![](../../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-revenant.jpg)
+![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-revenant.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
 | **Roller:**       | DPS, Support, Healer |
 | **Zırh:**         | Heavy       |
-| **Silahlar:**     |**Main-Hand:** Mace, Sword <br/> **Off-Hand:** Axe, Sword, Shield <br/> **Two-Handed:** Hammer, Staff <br/> **Underwater:** Spear, Trident |
-| **Alt Sınıflar:** | **Herald** (Shield kullanımı açılıyor) <br/> **Renegade** (Shortbow kullanımı açılıyor, PoF ek paketi gerekiyor) |
+| **Silahlar:**     |**Main-Hand:** Mace, Sword <br> **Off-Hand:** Axe, Sword, Shield <br> **Two-Handed:** Hammer, Staff <br> **Underwater:** Spear, Trident |
+| **Alt Sınıflar:** | **Herald** (Shield kullanımı açılıyor) <br> **Renegade** (Shortbow kullanımı açılıyor, PoF ek paketi gerekiyor) |
 
 ### :gw2-ranger-white: Ranger
 
-![](../../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-ranger.jpg)
+![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-ranger.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
 | **Roller:**       | DPS, Healer |
 | **Zırh:**         | Medium      |
-| **Silahlar:**     |**Two Handed:** Longbow, Shortbow, Greatsword <br/> **Main Hand:** Sword, Axe <br/> **Off Hand:** Axe, Dagger, Torch, Warhorn <br/> **Underwater:** Spear, Harpoon Gun |
-| **Alt Sınıflar:** | **Druid** (Staff kullanımı açılıyor, HoT ek paketi gerekiyor) <br/> **Soulbeast** (Main-Hand Dagger kullanımı açılıyor, PoF ek paketi gerekiyor) |
+| **Silahlar:**     |**Two Handed:** Longbow, Shortbow, Greatsword <br> **Main Hand:** Sword, Axe <br> **Off Hand:** Axe, Dagger, Torch, Warhorn <br> **Underwater:** Spear, Harpoon Gun |
+| **Alt Sınıflar:** | **Druid** (Staff kullanımı açılıyor, HoT ek paketi gerekiyor) <br> **Soulbeast** (Main-Hand Dagger kullanımı açılıyor, PoF ek paketi gerekiyor) |
 
 ### :gw2-thief-white: Thief
 
-![](../../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-thief.jpg)
+![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-thief.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
 | **Roller:**       | DPS |
 | **Zırh:**         | Medium      |
-| **Silahlar:**     |**Two Handed:** Shortbow <br/> **Main-Hand:** Dagger, Pistol, Sword <br/> **Off-Hand:** Dagger, Pistol <br/> **Underwater:** Harpoon Gun, Spear |
-| **Alt Sınıflar:** | **Daredevil** (Staff kullanımı açılıyor, HoT ek paketi gerekiyor) <br/> **Deadeye** (Rifle kullanımı açılıyor, PoF ek paketi gerekiyor) |
+| **Silahlar:**     |**Two Handed:** Shortbow <br> **Main-Hand:** Dagger, Pistol, Sword <br> **Off-Hand:** Dagger, Pistol <br> **Underwater:** Harpoon Gun, Spear |
+| **Alt Sınıflar:** | **Daredevil** (Staff kullanımı açılıyor, HoT ek paketi gerekiyor) <br> **Deadeye** (Rifle kullanımı açılıyor, PoF ek paketi gerekiyor) |
 
 ### :gw2-engineer-white: Engineer
 
-![](../../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-engineer.jpg)
+![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-engineer.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
 | **Roller:**       | DPS, Support, Healer |
 | **Zırh:**         | Medium      |
-| **Silahlar:**     |**Two-Handed:** Rifle, Hammer <br/> **Main-Hand:** Pistol, Sword <br/> **Off-Hand:** Pistol, Shield <br/> **Underwater:** Harpoon Gun |
-| **Alt Sınıflar:** | **Scrapper** (Hammer kullanımı açılıyor, HoT ek paketi gerekiyor) <br/> **Holosmith** (Sword kullanımı açılıyor, PoF ek paketi gerekiyor) |
+| **Silahlar:**     |**Two-Handed:** Rifle, Hammer <br> **Main-Hand:** Pistol, Sword <br> **Off-Hand:** Pistol, Shield <br> **Underwater:** Harpoon Gun |
+| **Alt Sınıflar:** | **Scrapper** (Hammer kullanımı açılıyor, HoT ek paketi gerekiyor) <br> **Holosmith** (Sword kullanımı açılıyor, PoF ek paketi gerekiyor) |
 
 ### :gw2-necromancer-white: Necromancer
 
-![](../../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-necromancer.jpg)
+![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-necromancer.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
 | **Roller:**       | DPS, Support, Healer |
 | **Zırh:**         | Light      |
-| **Silahlar:**     |**Two Handed:** Staff <br/> **Main Hand:** Axe, Dagger, Scepter <br/> **Off-Hand:** Dagger, Scepter, Warhorn <br/> **Underwater:** Spear, Trident |
-| **Alt Sınıflar:** | **Reaper** (Greatsword kullanımı açılıyor, HoT ek paketi gerekiyor) <br/> **Scourge** (Torch kullanımı açılıyor, PoF ek paketi gerekiyor) |
+| **Silahlar:**     |**Two Handed:** Staff <br> **Main Hand:** Axe, Dagger, Scepter <br> **Off-Hand:** Dagger, Scepter, Warhorn <br> **Underwater:** Spear, Trident |
+| **Alt Sınıflar:** | **Reaper** (Greatsword kullanımı açılıyor, HoT ek paketi gerekiyor) <br> **Scourge** (Torch kullanımı açılıyor, PoF ek paketi gerekiyor) |
 
 ### :gw2-elementalist-white: Elementalist
 
-![](../../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-elementalist.jpg)
+![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-elementalist.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
 | **Roller:**       | DPS, Healer |
 | **Zırh:**         | Light      |
-| **Silahlar:**     |**Two Handed:** Staff <br/> **Main Hand:** Dagger, Scepter <br/> **Off-Hand:** Dagger, Focus <br/> **Underwater:** Trident |
-| **Alt Sınıflar:** | **Tempest** (Warhorn kullanımı açılıyor, HoT ek paketi gerekiyor) <br/> **Weaver** (Sword kullanımı açılıyor, PoF ek paketi gerekiyor) |
+| **Silahlar:**     |**Two Handed:** Staff <br> **Main Hand:** Dagger, Scepter <br> **Off-Hand:** Dagger, Focus <br> **Underwater:** Trident |
+| **Alt Sınıflar:** | **Tempest** (Warhorn kullanımı açılıyor, HoT ek paketi gerekiyor) <br> **Weaver** (Sword kullanımı açılıyor, PoF ek paketi gerekiyor) |
 
 ### :gw2-mesmer-white: Mesmer
 
-![](../../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-mesmer.jpg)
+![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-mesmer.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
 | **Roller:**       | DPS, Support, Tank |
 | **Zırh:**         | Light      |
-| **Silahlar:**     |**Two Handed:** Greatsword, Staff <br/> **Main Hand:** Axe, Scepter, Sword <br/> **Off-Hand:** Focus, Pistol, Shield, Sword, Torch <br/> **Underwater:** Spear, Trident |
-| **Alt Sınıflar:** | **Chronomancer** (Shield kullanımı açılıyor, HoT ek paketi gerekiyor) <br/> **Mirage** (Axe kullanımı açılıyor, PoF ek paketi gerekiyor) |
+| **Silahlar:**     |**Two Handed:** Greatsword, Staff <br> **Main Hand:** Axe, Scepter, Sword <br> **Off-Hand:** Focus, Pistol, Shield, Sword, Torch <br> **Underwater:** Spear, Trident |
+| **Alt Sınıflar:** | **Chronomancer** (Shield kullanımı açılıyor, HoT ek paketi gerekiyor) <br> **Mirage** (Axe kullanımı açılıyor, PoF ek paketi gerekiyor) |
 
 Aşağıdaki videoyu izleyerek sınıflar ve alt sınıflar hakkında görünüşsel, animasyonsal ve skillsel fikir edinebilirsiniz.
 
@@ -155,19 +155,19 @@ Oyun içerik olarak genel hatlarıyla üçe ayrılıyor bunlar; PvE, PvP, WvW. G
 
 ### PvE
 
-![](../../assets/images/gw2-baslangic-rehberi/gw2-pve.jpg)
+![](../assets/images/gw2-baslangic-rehberi/gw2-pve.jpg)
 
 Oyununa ana içeriklerinden birisidir, oyuncular arası kavga ve dövüşten uzaktır. Etkinlikler, world bosslar, zindanalar, raidler, hikayeler, vb.. şeyler vardır.
 
 ### PvP
 
-![](../../assets/images/gw2-baslangic-rehberi/gw2-pvp.jpg)
+![](../assets/images/gw2-baslangic-rehberi/gw2-pvp.jpg)
 
 Oyunun PvP si şu nedenlerden ötürü çok güzeldir, birincisi seviye sınırı yoktur bu da demek ki 1 seviye bir karakterinizle direkt pvp girebilirsiniz bütün skilleri açık olacaktır, ikincisi ise eşyaların statlarının bir önemi yoktur, ölçeklendirilmiş bir stat sistemi vardır. Genellikle 5v5 oynanır, bölge tutma, takım ölüm maçı, yan objektifler yapmalı modları vardır.
 
 ### WvW
 
-![](../../assets/images/gw2-baslangic-rehberi/gw2-wvw.jpg)
+![](../assets/images/gw2-baslangic-rehberi/gw2-wvw.jpg)
 
 Sunucunuzu temsil ettiğiniz bu modda her hafta en çok Kamp, Kule ve Kaleyi elinde tutacak diğer 2 sunucu ile karşı karşıya kalırsınız, kısacası sunucunuzun onuru sunucudaki oyunculara bağlıdır. Fightlar genelde 1v1 den başlayıp 100v100 e kadar gidebilir. Ve bu modda eşyaların statlarının önemi vardır. Bilgisayarınız çok iyi değilse grafik ayarlarından Model Limit ve Model Quality ayarlarınızı düşürmenizi öneririm yoksa kasa üzerinde mangal yapma ihtimaliniz var.
 
