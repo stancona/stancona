@@ -66,6 +66,8 @@ theme:
 plugins:
   - search:
       lang: tr
+  - minify:
+      minify_html: true
   - social
 
 # Hooks
