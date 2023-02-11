@@ -1,1 +1,0 @@
-# Guild Wars 2 Yeni Oyuncu Rehberi

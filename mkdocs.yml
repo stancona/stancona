@@ -1,7 +1,7 @@
 # Project information
 site_name: Stancona
 site_url: https://stancona.org/
-site_author: eminboydak.4160
+site_author: Stancona
 
 # Repository
 repo_name: eminboydak/stancona
@@ -13,44 +13,127 @@ copyright: Copyright &copy; 2023 Stancona
 # Configuration
 theme:
   name: material
+  # custom_dir: overrides
   palette:
-    scheme: slate
-    primary: teal
-    accent: deep purple
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Karanlık moda geç
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Aydınlık moda geç
   font:
-    text: Roboto
+    text: Noto Sans
     code: Fira Code
   language: tr
-  logo: assets/logo.png
+  # logo: assets/logo.png
   favicon: assets/favicon.png
+  icon:
+    logo: simple/dragonframe
   features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.path
-    - navigation.top
+    # - announce.dismiss
+    # - content.action.edit
+    # - content.action.view
+    # - content.code.annotate
+    # - content.code.copy
+    # - content.tabs.link
+    # - content.tooltips
+    # - header.autohide
+    # - navigation.expand
     - navigation.footer
+    # - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    # - navigation.tracking
+    # - navigation.path
+    # - search.highlight
+    # - search.share
+    - search.suggest
+    # - toc.follow
+    # - toc.integrate
 
+# Plugins
+plugins:
+  - search:
+      lang: tr
+  - minify:
+      minify_html: true
+
+# Hooks
+
+# Customization
 extra:
   social:
     - icon: fontawesome/brands/discord
       link: http://discord.stancona.org/
 
+# Extensions
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
 nav:
   - Ana Sayfa: index.md
   - Rehber:
-    - Temel:
-      - Balangıç Rehberi: rehber/temel/gw2-baslangic-rehberi.md
-      - Yeni Oyuncu Rehberi: rehber/temel/gw2-yeni-oyuncu-rehberi.md
+    - Başlangıç Rehberi: rehber/gw2-baslangic-rehberi.md
+    - Yeni Oyuncu Rehberi: rehber/gw2-yeni-oyuncu-rehberi.md
     - Raid:
       - Spirit Vale (W1):
-        - Vale Guardian: rehber/raid/vale-guardian.md
-        - Gorseval the Multifarious: rehber/raid/gorseval-the-multifarious.md
-        - Sabetha the Saboteur: rehber/raid/sabetha-the-saboteur.md 
+        - Vale Guardian: rehber/w1-vale-guardian.md
+        - Gorseval the Multifarious: rehber/w1-gorseval-the-multifarious.md
+        - Sabetha the Saboteur: rehber/w1-sabetha-the-saboteur.md 
       - Salvation Pass (W2):
-        - Slothasor: rehber/raid/slothasor.md
-        - Bandit Trio: rehber/raid/bandit-trio.md
-  - Lore: index.md
+        - Slothasor: rehber/w2-slothasor.md
+        - Bandit Trio: rehber/w2-bandit-trio.md
+  # - Lore: index.md
   - Sıkça Sorulan Sorular: sss.md
 
 extra_javascript:
