@@ -2,6 +2,9 @@
 site_name: Stancona
 site_url: https://stancona.github.io/stancona/
 site_author: Stancona
+site_description: >-
+  Stancona [STN] guildi,  Guild Wars 2 topluluğunu bir araya getirmek, beraber oynamak,
+  sohbet etmek ve iyi vakit geçirmek için kurulmuş bir yerdir.
 
 # Repository
 repo_name: stancona/stancona
