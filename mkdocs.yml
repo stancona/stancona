@@ -1,11 +1,11 @@
 # Project information
 site_name: Stancona
-site_url: https://stancona.org/
+site_url: https://stancona.github.io/stancona/
 site_author: Stancona
 
 # Repository
-repo_name: eminboydak/Stancona
-repo_url: https://github.com/eminboydak/Stancona
+repo_name: stancona/stancona
+repo_url: https://github.com/stancona/stancona
 
 # Copyright
 copyright: Copyright &copy; 2023 Stancona
