@@ -442,3 +442,325 @@ Bunun dışında, /map kanalı daha arkadaş canlısı ve yardım severdir orada
 
 Zaten daha siz haritayı tamamlamadan, hikayenizi bitirmeden 80 olacağınızdan dolayı korkmanıza gerek yok. Asıl olay 80 den sonra başlıyor kendinizi hazırlayın!
 
+## Toplayıcılık
+
+Guild Wars 2'de 3 çeşit toplanabilir materyal vardır, bunlar:
+
+### Metal (Kazma kullanılır)
+
+<figure markdown>
+  ![](../assets/images/gw2-yeni-oyuncu-rehberi/gathering-metal.jpg)
+  <figcaption>Queensdale haritasında toplama yapan bir köylü</figcaption>
+</figure>
+
+### Odun (Balta kullanılır)
+
+<figure markdown>
+  ![](../assets/images/gw2-yeni-oyuncu-rehberi/gathering-wood.jpg)
+  <figcaption>Queensdale haritasında toplama yapan bir köylü</figcaption>
+</figure>
+
+### Bitki (Orak kullanılır)
+
+<figure markdown>
+  ![](../assets/images/gw2-yeni-oyuncu-rehberi/gathering-plant.jpg)
+  <figcaption>Queensdale haritasında toplama yapan bir köylü</figcaption>
+</figure>
+
+Her haritanın kendine özel seviyesi vardır, bu sebepten dolayı o haritadan topladığınız materyaller de haritanın seviyesine göre olur. TP (Trading Post)'de fiyatlar sürekli değiştiğinden en üst seviye materyal en pahalısı anlamına gelmez, bu nedenden dolayı denk geldiğiniz her şeyi toplayın.
+
+Her toplama aletinin kendine özel bir kullanım sayısı vardır. Tamamen kullandığınızda gidip bir tane daha almanız gerekmekte ama merak etmeyin sudan ucuz şeyler bunlar. Sürekli satın al satın al ile uğraşmam ben üşengeç bir insanım diyorsanız gem store dan **Unbreakable Gathering Tools** eşyasını alabilirsiniz. İndirimli daha ucuza geleceğini unutmayın.
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/unbreakable-tools.jpg)
+
+## Dungeon/Fractal/Strike/Raid
+
+Guild Wars 2, kendine saygı duyan her MMO oyununda olduğu gibi Dungeon ve Raidlere sahiptir. Çoğu MMO dan bildiğiniz şeylerdir belki ama gelin yakından bir bakalım.
+
+### Dungeon (Zindan)
+
+<figure markdown>
+  ![](../assets/images/gw2-yeni-oyuncu-rehberi/dungeons.jpg)
+  <figcaption>Ascalon zindanının giriş kapısı</figcaption>
+</figure>
+
+Zindanlar, harita üzerinde ![](../assets/images/gw2/dungeon.png) Kapı simgesi şeklinde görünürler. Zindanlara 5 kişi parti halinde girilir. Guild Wars 2'de şu an 8 zindan mevcuttur:
+
+1. **Ascalonian Catacombs (level 35)**
+2. **Caudecus’ Manor (level 45)**
+3. **Twilight Arbor (level 55)**
+4. **Sorrow’s Embrace (level 65)**
+5. **Citadel of Flame (level 75)**
+6. **Honor of the Waves (level 80)**
+7. **Crucible of Eternity (level 80)**
+8. **The Ruined City of Arah (level 80)**
+
+Yukarıdaki görselde de görebileceğiniz üzere zindanların iki adet modu vardır, **hikaye modu** ve **keşif modu**. **Hikaye modu** o zindanın hikayesini anlatır ve tek bir yol vardır ve keşif moduna göre daha kolaydır. **Keşif modu** ise hikaye moduna göre daha zor olur ve seçebileceğiniz yollar olur (genellikle 3-4 adet) ve ödülleri daha fazladır. Keşif moduna girebilmek için önce hikaye modunu yapmalısınız veya hikaye modunu yapmış birisi sizin yerinize o zindanı açabilir.
+
+Tüm zindanların tüm yollarını yapmak size başarım olarak ödüller verecektir. Ek olarak **Dungeon Frequenter** başarımı sayesinde, birbirinden farklı 8 adet zindan yolunu her tamamlayışınızda size 5 gold ve seçeceğiniz bir zindanın parasından 150 tane vermektedir.
+
+Zindanlara girecek birilerini bulmak için, guildinize yazabilir, /map kanalını kullanabilir ya da LFG yi kullanabilirsiniz. Başlangıçta zindanlara 5 kişi girmek daha mantıklı bir seçim olur. İlerleyen zamanlarda tek başınıza yapmayı deneyebilirsiniz.
+
+Her zindanın kendine özel bir para birimi vardır. Bu para birimleriyle o zindana özel silahlar, zırhlar ve taşlar alabilirsiniz. Zindan ödülleri haftalıktır, bir zindanın bir yolundan haftada sadece 1 kere ödül alabilirsiniz.
+
+### Fractal
+
+<figure markdown>
+  ![](../assets/images/gw2-yeni-oyuncu-rehberi/fractal.jpg)
+  <figcaption>Fractal lobisi</figcaption>
+</figure>
+
+Fractallar, kendine has mekanik ve stratejilerin dışında ek zayıflatma etkilerine sahip 5 kişilik 80 seviye zindanlardır. Fractalı farklı kılan şeylerden birisi de <span style="color:red">Agony</span> dir. Agony radyasyon gibi agony direnci veren eşyayı ekipmanlara takmadığınız sürece size sürekli hasar verecektir. Fakat korkmayın ilk 0-25 seviye fractallara AR (Agony Resistance) olmadan girebilirsiniz.
+
+AR oyun sonu eşya seviyesi olan Ascended Ekipmanlara (oyun sonu eşyaları) takılabilir. Bu sebepten dolayı fractalda ilerleyebilmek için ascended set yapmanız gerekmektedir. 150 AR ile en son seviye fractala girebilirsiniz, dilerseniz üzerinizdeki AR yi daha da arttırabilirsiniz.
+
+Fractalda şu anlık toplamda 100 adet seviye bulunmaktadır (SAO izleyenler heyecanlanır).
+
+- 0-25 arası Tier 1
+- 26-50 arası Tier 2
+- 51-75 arası Tier 3
+- 76-100 arası Tier 4
+ 
+olmak üzere dörde ayrılır. Bazı fractallar **CM (Challange Mode)** moduna sahiptir. Bu modlar daha zorlayıcı ve ödülü de ona göre fazla olan fractallardır. Genellikle 100, 99 ve 98 seviye fractalların CM modu yapılır.
+
+Fractal ödülleri günlüktür, daily fractal ödüllerini her gün girerek alabilirsiniz. Resimde de göreceğiniz üzere solunda mor işaret olan fractallar günlük fractallardır. T4 de yaptığınız bir daily ile hem T4 hem de T3, T2, T1 daily ödüllerini alabilirsiniz.
+
+### Strike Görevleri
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/strike.jpg)
+
+Oyuna Icebrood Saga ile eklenen bu görevler zindanlardan zor raidlerden kolay olup zindan raid arası köprü niteliğinde görevlerdir. Eğer raidlere girmek istiyorsanız strike görevleri güzel bir başlangıç olacaktır. 80 seviye olduğunuzda haritadan [Hall of Monuments](https://wiki.guildwars2.com/wiki/Hall_of_Monuments) mekanını bulup hemen ışınlanabilirsiniz.
+
+Çok fazla olmamakla boss lara özel mekanikleri mevcuttur. Günlük olarak dünülüp günlük ödüller alınabilir. Yeni 80 olmuş arkadaşlar için <span style="color:pink">Ascended</span> eşya elde etmek için çok güzel bir yoldur. Günlük ödüllerin dışında sınırsız olarak kristal kazanabilir ve bu kristaller sayesinde istediğiniz ascended zırh veya silahı alabilirsiniz.
+
+Ek olarak Skyscale bineği kasanlar için de LS4 harita paralarını buradan kazandığınız bir materyal ile alabilirsiniz. Dragonfall dan ascended aksesuar almak için de bu LS4 paralarını kullanabilirsiniz.
+
+### Raid
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/raid.jpg)
+
+Raidler Hot ve PoF paketi ile beraber kullanıma açılırlar. 10 kişilik bir ekiple, belirli sınıflara ve buildlere ihtiyaç duyulur. Oyunda öğrenmesi ve ustalaşması zor içeriklerden birisidir.
+
+Raidlere girmek için ille de ascended eşyaya ihtiyacınız yoktur, metaya göre hazırlanmış güzel bir exotic build ile de girlebilir, fakat ascended girmek daha iyi olur. Önce strike yapıp karakterinizi öğrenmeden girişmenizi pek tavsiye etmem, başlamak için guildimize gelip bizden destek isteyebilirsiniz, düzenli raid trainingleri organize etmekteyiz.
+
+Raidler oyun içerisinde **Wing** olarak adlandırılır. Oyunda şu anda 7 adet wing bulunmaktadır:
+
+1. **Spirit Vale (W1)**
+2. **Salvation Pass (W2)**
+3. **Stronghold of the Faithful (W3)**
+4. **Bastion of the Penitent (W4)**
+5. **Hall of Chains (W5)**
+6. **Mythwright Gambit (W6)**
+7. **The Key of Ahdashim (W7)**
+
+## Guildler
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/guild.jpg)
+
+Şimdi sosyalleşme zamanı. Demek istediğim, tek başına oynayacaksan MMO oynamanın anlamı ne? Oyunda birçok guild mevcut ve her hesap toplamda 5 adet guilde girebilir fakat aynı anda sadece 1 tanesini temsil edebilir. Bu temsil etme olayını guildin solundaki tike tıklayarak yapabilirsin.
+
+Guild görevleri insanlarla sosyalleşmek ve guild parası kazanmak için çok güzel aktivitelerdir. Hem guilde hem de katılımcıya faydası vardır. Bulunduğunuz guildin görevlerini kaçırmayın.
+
+Bizim guilde gelmek isterseniz de [:simple-discord: Discord](http://discord.stancona.org/) sunucumuza gelip, guilde katılmak istediğinizi belirtmeniz yeterli olacaktır.
+
+## Ekipman
+
+Guild Wars 2'de ekipmanlar üç ana parçaya ayrılır: Zırhlar, Silahlar ve Aksesuarlar. Her birini bi inceleyelim:
+
+### Zırhlar
+
+Oyunda zırhlar 3 kategoriye ayrılmıştır: Light, Medium ve Heavy. Aşağıdan hangi kategorileri hangi sınıfların kullandığına bakabilirsin.
+
+| ***Light*** | ***Medium*** | ***Heavy*** |
+|---|---|---|
+| Elementalist | Engineer | Warrior |
+| Mesmer | Ranger | Thief |
+| Necromancer | Guardian | Revenant |
+
+Bu üç tür birbirinden farklı zırh değerlerine sahiptir.
+
+Zırhlar 6 parçaya ayrılır:
+
+1. **Headgear**
+2. **Shoulders**
+3. **Chest**
+4. **Glove**
+5. **Leggings**
+6. **Boots**
+
+Oyunda yere düştüğünüzde veya öldüğünüzde zırhınız hasar alır. Bunu nerden görebilirim diye soracak olursan can göstergesinin sağ altında turuncu bir kalkan işareti belirir. İşte o göründüğünde zırhınızı tamir etmeniz gerekmektedir. Tamir için bi örs bulmanız yeterli:
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/anvil.jpg)
+
+Fazla endişelenmeyin, tamirat yapmanın bi ücreti yok.
+
+### Silahlar
+
+Her sınıf en fazla 2 adet silah setine sahip olabilir ve combat sırasında bu silahlar arası geçiş yaptığınızda 9 saniyelik bir beklemeye girer. Eğer combatta değilseniz istediğimiz gibi değiştirebilirsiniz. Silahlar 3 ana türe ayrılır: Ana Silah, İkincil Silah ve Su Altı Silahları.
+
+**Ana Silah**, tek el bir silahsa 1-3 arası eğer çift el bir silahsa 1-5 arası skillerinizi size verir. Çift el bir silahı kuşanırsanız o tek silah iki slotu da kaplar. Yanına ikincil bir silah takamazsınız.
+
+**İkincil Silah**, eğer elinizde tek el bir silah varsa ikinci elinize aldığınız silaha denir. 4-5 skillerini açar.
+
+**Su altı silahları** da su altında kullanılan silahlardır.
+
+### Aksesuarlar
+
+Aksesuarlar, zırhlara benzeyen her sınıfta aynı olan mücevherlerdir. 4'e ayrılırlar:
+
+1. **2x Ring**
+2. **2x Earring**
+3. **1x Amulet**
+4. **1x Back item**
+
+Bazı aksesuarların açıklamasında **"Unique"** ibaresi bulunur, bu ibare olan bir aksesuardan sadece bir adet kullanabilirsin. Örnek olarak üzerinde unique yazan 2 aynı yüzüğünüz varsa ikisini aynı anda kullanamazsınız.
+
+Şimdi en kötüden en iyiye doğru ekipmanların nadirliklerini inceleyelim:
+
+- **Basic**
+- <span style="color:DodgerBlue">**Fine**</span>
+- <span style="color:MediumSeaGreen">**Masterwork**</span>
+- <span style="color:yellow">**Rare**</span>
+- <span style="color:orange">**Exotic**</span>
+- <span style="color:violet">**Ascended**</span>
+- <span style="color:purple">**Legendary**</span>
+
+Lütfen şunu unutmayın Ascended ile Legendary arasında stat farkı yoktur, farkları ise şu Legendary ekipmanların kendine özgü güzel görünümleri vardır ve statları çok rahat bir şekilde değiştirilebilir. Oyunun başlarında legendary ekipmanları pek kafanıza takmayın.
+
+Oyunun başında ille de ascended diye ölmenize de gerek yok tabi ki gerekli ve üst seviye bir stat ama exotic ile ascended arasındaki güç farkı sadece %5 dir. Exotic set ile strike ve raid yapabilirsiniz. Tabi biraz daha efor sarf etmeniz gerekiyor.
+
+### Prefix (Statlar)
+
+<figure markdown>
+  ![](../assets/images/gw2-yeni-oyuncu-rehberi/prefix.jpg)
+  <figcaption>Örnek bir Harrier statı</figcaption>
+</figure>
+
+Guild Wars 2'de ekipmanların belirli stat kümeleri vardır, bunlara detaylı olarak [buraya](https://wiki.guildwars2.com/wiki/Attribute_combinations) tıklayarak ulaşabilirsiniz. Örnek olarak, Berserker statı size +Power, +Precision, +Ferocity verir. Verdikleri aynı olup da sayıları farklı olanlar da vardır mesela Assassin statı berserker ile aynı statları size verir fakat Precision statını daha fazla olarak verir. Oyun sonu içerikte oynamak istediğiniz role göre stat seçimi çok önemlidir.
+
+## Binekler
+
+!!! warning "Uyarı"
+    PoF ek paketi gerekmektedir
+
+Oyun ilk çıktığından beri istenen ve PoF ile hayatımıza giren şeylerdir binekler. PoF paketi ile geldiği için maalesef ücretsiz oyuncular ve sadece HoT a sahip olan insanlar binekleri kullanamıyorlar. Oyunda şu anda kullanılabilir olarak 8 adet binek mevcuttur ve hepsinin kendine has özellikleri vardır. Gelin bunları inceleyelim:
+
+### Raptor
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/raptor.jpg)
+
+Raptor, uzun mesafeleri atlayarak geçebilen bir binektir. Kolay ulaşım ve farmlarda genelde kullanılan binektir.
+
+### Springer (Tavşan)
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/springer.jpg)
+
+Bu dev tavşanımızın tatlılık oranı zıplamasıyla eş değerdir. Çok yükseklere zıplayarak yüksek yerlere daha da rahat erişebilirsiniz.
+
+### Skimmer
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/skimmer.jpg)
+
+Yerden ayağınızı kesen ilk bineğiniz olan bu binek hevesleri az kırmakla beraber baya da işe yarıyor. Kendisi karada böyle gitmekle beraber su üzerinde ek bir hız kazanarak bu şekilde gidebiliyor. Bunun yanı sıra kızgın çöl ve bataklık gibi size zarar verebilecek zeminlerden ayağınızı değmeden zarar almadan gidebilmenizi sağlar. Ve yeni gelen özelliği ile beraber bu bineği geliştirirseniz su altında da bu binekle gezebilirsiniz!
+
+### Jackal
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/jackal.jpg)
+
+Kendisi çok efsane bir binek olan çakal çok güzel özelliklere sahiptir. Kısa mesafe ışınlanma yapabilir daha çok sıçrama gibi. Fakat özel kılan noktası şu sıçrama esnasında gelen bütün hasarlardan kaçınabilirsiniz. Ayrı olarak bu sıçrama hareketi momentumu sıfırlamak için de kullanılabilir. Örnek olarak yüksek bir kuleden bu binekle aşağı atladığınızda düşüş esnasında sıçrayabildiğiniz gibi yere değmeden bir kere sıçramanız momentumu sıfırlayacağından düşmeden hiç hasar almazsınız. Ayrıca kum portallarından da bu binek sayesinde geçebilirsiniz.
+
+### Griffon
+
+<figure markdown>
+  ![](../assets/images/gw2-yeni-oyuncu-rehberi/griffon.jpg)
+  <figcaption>Şahgaga</figcaption>
+</figure>
+
+İşte geldik benim favorilerimden birine. Çoğu kişi bu bineği gömse de benim ayrı bir bağım var bu binekle. Kendisi oyunun en hızlı bineğidir (kullanmayı öğrendikten sonra). Bu bineğin özelliği şudur gelişmiş bir glider gibidir, yükseklik kazanamazsınız (uğraşarak kazanabilirsiniz tabi) fakat yüksek bir yerden dalış yaptığınızda bi anda oyunun en hızlı bineğine dönüşür. Havada asılı kalamaz ve bir yere değdiğinde hızınızı kaybedersiniz, üzerine çalışmanız gerekmektedir.
+
+### Roller Beetle
+
+<figure markdown>
+  ![](../assets/images/gw2-yeni-oyuncu-rehberi/beetle.jpg)
+  <figcaption>Nissan 350z</figcaption>
+</figure>
+
+Geldik en favorilerimden diğeri olan şu tatlış böceğimize. Kendisi oyunumuzun en tokyo drift özelliğidir. Yerlerin griffonu dur kendisi, çok aşırı hızlanabilir ve drift yapabilirsiniz. Hatta arkadaki pisti bu arkadaşa özel hazırlıyoruz diyebilirim. Efsane yarışlar yapılabiliyor bu arkadaşla. Ama bu bineği alabilmek için LS4 Long Live The Lich hikayesine sahip olmanız gerekmektedir.
+
+### Skyscale
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/skyscale.jpg)
+
+Bu göğü delen abimiz oyuna LS4 hikayesinin sonunda eklenmiştir ve bu abimizle yükseklik kazanabilir, havada asılı kalabilir ve duvarlara tutunabilirsiniz. Bu bineği alabilmek için tüm LS4 bölümlerine sahip olmanız gerekmektedir. Ve oldukça uzun başarım silsilesi sizi bekliyor. Ama merak etmeyin çok eğlenceli spoiler vermeyeyim.
+
+### Warclaw
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/warclaw.jpg)
+
+Bu arkadaş WvW için çıkmış ilk ve tek binektir. Kendisinin full potansiyelini wvw haritalarında görebilirsiniz (yerdeki düşmana finisher atabilir, kapıları kırabilirsiniz, vs.) fakat yine de pve de kullanılabilir ama pek bi işe yaramıyor pve de. Açmak ve geliştirmek için wvw oynamalısınız.
+
+## Meslekler
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/crafting.jpg)
+
+Oyunda 9 farklı meslek bulunuyor bunlar:
+
+1. **Armorsmith**, Hevy Zırhları üretmek için
+2. **Leatherworker**, Medium Zırhları üretmek için
+3. **Tailor**, Light Zırhları üretmek için
+4. **Weaponsmith**, yakın mesafe silahları ve kalkanları üretmek için
+5. **Huntsman**, mesafeli silahları ve ikincil silahları üretmek için
+6. **Artificer**, Staff, Scepter, Focus ve Trident üretmek için
+7. **Chef**, yemek üretmek için
+8. **Jeweler**, aksesuarları üretmek için
+9. **Scriber**, Guild Hall da kullanılan dekorasyonları üretmek için
+
+Oyun sonu eşyalarını (Ascended, Legendary) üretmek için mesleklerinizin son seviye olması gerektiğini unutmayın. Her karakterde 2 adet meslek alabilirsiniz, bu sayıyı gem store dan arttırabilirsiniz.
+
+## Banka
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/bank.jpg)
+
+Tüm karakterlerinizle erişebileceğiniz bankanız en başta 30 slot olarak gelir. Bu slotu gem store dan arttırabilirsiniz.
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/bank-material.jpg)
+
+Bankanızın diğer bir sekmesinde materyal deposu bulunuyor, kırdığınız eşyaları deposit ederek buraya gönderebilir ve craft esnasında envanterinizde olmasa bile malzemeleri kullanabilirsiniz. Her materyalden toplam 250 adet burada saklayabilirsiniz. Gem store dan bu depolama limitini arttırabilirisniz.
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/bank-wardrobe.jpg)
+
+Bankanızın bir diğer sekmesinde de gardırop bölümü bulunur. Burası skinlerini açtığınız ekipmanları gösterir. Bu skinleri zırhlarınıza veya silahlarınıza Transmutation Charge yardımıyla giydirebilirsiniz. Bir ekipmanın skinini açmak için onu kullanmanız, kırmanız veya mystic forge a atmanız gerekmektedir.
+
+## Black Lion Trading Post (Kapalı Çarşı)
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/trading-post.jpg)
+
+Guild Wars 2'nin kapalı çarşısına hoş geldiniz. Burada karakterlere ve hesaplara bağlı olmayan her şeyi alıp satabilirsiniz. 1.Jenerasyon Legendary silahları bile alabilirsiniz! Materyal ve ihtiyacınız olan diğer şeyler için burada baya zaman geçireceksiniz.
+
+TP de bir mal için alış teklifi verebilir ya da en düşük satış fiyatına alabilirsiniz. Aynı şekilde istediğiniz bir teklife ürün koyabilir veya en yüksek ücreti verene satabilirsiniz. TP işlemlerini oyunun her yerinde yapabilirsiniz fakat paranızı ve ürününüzü almak için en yakın TP görevlisine gitmeniz gerekmektedir.
+
+## Gem Store
+
+<figure markdown>
+  ![](../assets/images/gw2-yeni-oyuncu-rehberi/gem-store.jpg)
+  <figcaption>ArenaNet'in ekmek kapısı</figcaption>
+</figure>
+
+Gem para birimini harcayabileceğiniz bu yerden hiçbir şekilde sizi oyunda ileri götürecek bir şey alamazsınız yani oyun p2w değildir. Buradan hesap geliştirmeleri (banka slotu, karakter slotu, vs.), Zırh görünümleri, Kostümler, Binek görünümleri vs. alabilirsiniz.
+
+Oyunda gem elde etmenin 3 yolu vardır:
+
+1. **Gerçek parayla satın alabilirsiniz**
+2. **Her 5.000 başarımda bir ödül olarak alabilirsiniz**
+3. **Oyun içi goldu geme çevirebilirisniz**
+
+![](../assets/images/gw2-yeni-oyuncu-rehberi/exchange.jpg)
+
+Yukarıda da gördüğünüz gibi belirli gem miktarlarının gold karşılığı görebilirsiniz. Bu miktardan daha az veya daha belirli bir sayıda gemi gold yardımı ile alacaksanız **Custom Exchange** tuşu yardımı ile 1 gem bile alabilirsiniz direkt.
+
+Bu rehberimizden de bu kadar, sonraki rehberlerde görüşmek üzere. Aklınıza takılan bir konu olursa [:simple-discord: Discord](http://discord.stancona.org/) sunucumuza gelip sorabilirsiniz veya yorum bırakabilirsiniz. İyi oyunlar bol şanslar.
+
+_Referanslar:_  
+[https://www.guildwars2.com/en/new-player-guide](https://www.guildwars2.com/en/new-player-guide)  
+[https://altarofgaming.com/guild-wars-2-beginners-guide-welcome-to-tyria/](https://altarofgaming.com/guild-wars-2-beginners-guide-welcome-to-tyria/)
+

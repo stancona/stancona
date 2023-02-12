@@ -15,13 +15,13 @@ theme:
   name: material
   custom_dir: overrides
   palette:
-    - scheme: default
+    - scheme: slate
       primary: deep purple
       accent: deep orange
       toggle:
         icon: material/brightness-4
         name: Aydınlık moda geç
-    - scheme: slate
+    - scheme: default
       primary: deep purple
       accent: deep orange
       toggle:
@@ -29,7 +29,7 @@ theme:
         name: Karanlık moda geç
 
   font:
-    text: Noto Sans
+    text: Open Sans
     code: Fira Code
   language: tr
   # logo: assets/logo.png
@@ -41,16 +41,16 @@ theme:
     - content.action.edit
     # - content.action.view
     # - content.code.annotate
-    # - content.code.copy
+    - content.code.copy
     # - content.tabs.link
     # - content.tooltips
     # - header.autohide
     # - navigation.expand
     - navigation.footer
     # - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     # - navigation.prune
-    - navigation.sections
+    # - navigation.sections
     - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
@@ -128,14 +128,51 @@ nav:
     - Başlangıç Rehberi: rehber/gw2-baslangic-rehberi.md
     - Yeni Oyuncu Rehberi: rehber/gw2-yeni-oyuncu-rehberi.md
     - Raid:
-      - Spirit Vale (W1):
-        - Vale Guardian: rehber/w1-vale-guardian.md
-        - Gorseval the Multifarious: rehber/w1-gorseval-the-multifarious.md
-        - Sabetha the Saboteur: rehber/w1-sabetha-the-saboteur.md 
-      - Salvation Pass (W2):
-        - Slothasor: rehber/w2-slothasor.md
-        - Bandit Trio: rehber/w2-bandit-trio.md
-  # - Lore: index.md
+      - Spirit Vale:
+        - Vale Guardian: rehber/raid/spirit-vale/vale-guardian.md
+        - Spirit Woods: rehber/raid/spirit-vale/spirit-woods.md
+        - Gorseval: rehber/raid/spirit-vale/gorseval.md
+        - Sabetha: rehber/raid/spirit-vale/sabetha.md
+      - Salvation Pass:
+        - Slothasor: rehber/raid/salvation-pass/slothasor.md
+        - Bandit Trio: rehber/raid/salvation-pass/bandit-trio.md
+        - Matthias Gabrel: rehber/raid/salvation-pass/matthias-gabrel.md
+      - Stronghold of Faithful:
+        - Siege the Stronghold: rehber/raid/stronghold-faithful/siege-the-stronghold.md
+        - Keep Construct: rehber/raid/stronghold-faithful/keep-construct.md
+        - Twisted Castle: rehber/raid/stronghold-faithful/twisted-castle.md
+        - Xera: rehber/raid/stronghold-faithful/xera.md
+      - Bastion of the Penitent:
+        - Cairn the Indomitable: rehber/raid/bastion-penitent/cairn-the-indomitable.md
+        - Mursaat Overseer: rehber/raid/bastion-penitent/mursaat-overseer.md
+        - Samarog: rehber/raid/bastion-penitent/samarog.md
+        - Deimos: rehber/raid/bastion-penitent/deimos.md
+      - Hall of Chains:
+        - Soulless Horror: rehber/raid/hall-chains/soulless-horror.md
+        - River of Soul: rehber/raid/hall-chains/river-of-souls.md
+        - Statues of Grenth: rehber/raid/hall-chains/statues-of-grenth.md
+        - Dhuum: rehber/raid/hall-chains/dhuum.md
+      - Mythwright Gambit:
+        - Conjured Amalgamate: rehber/raid/mythwright-gambit/conjured-amalgamate.md
+        - Sorting & Appraisal: rehber/raid/mythwright-gambit/sorting-appraisal.md
+        - Twin Largos: rehber/raid/mythwright-gambit/twin-largos.md
+        - Qadim: rehber/raid/mythwright-gambit/qadim.md
+      - The Key of Ahdashim:
+        - Gates of Ahdashim: rehber/raid/key-ahdashim/gates-of-ahdashim.md
+        - Cardian Adina: rehber/raid/key-ahdashim/cardinal-adina.md
+        - Cardinal Sabir: rehber/raid/key-ahdashim/cardinal-sabir.md
+        - Qadim the Peerless: rehber/raid/key-ahdashim/qadim-the-peerless.md
+    - Festival:
+      - Lunar New Year: rehber/festival/lunar-new-year.md
+      - Super Adventure Festival: rehber/festival/super-adventure-festival.md
+      - Dragon Bash: rehber/festival/dragon-bash.md
+      - Festival of the Four Winds: rehber/festival/festival-of-the-four-winds.md
+      - Halloween: rehber/festival/halloween.md
+      - Wintersday: rehber/festival/wintersday.md
+    - Eklenti:
+      - ArcDPS: rehber/eklenti/arcdps.md
+      - Blish HUD: rehber/eklenti/blish-hud.md
+      - TacO: rehber/eklenti/taco.md
   - Sıkça Sorulan Sorular: sss.md
 
 extra_javascript:
