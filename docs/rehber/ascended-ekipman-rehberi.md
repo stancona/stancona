@@ -145,76 +145,132 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
         - Mistborn mote, aynı haritada Mistborn Coffer sandıklarını açarak (eventlerden anahtarı ile birlikte bulunabilir) kasılabilir.
         - Takılar haritanın giriş bölgesinin üç ayrı çıkış yolunun kenarında bulunan npc’lerden alınabilir (npc’lerden alım yapabilmek için bulundukları yolların götürdüğü bölgelerde 10’ar event yapılmış olmalıdır).
         - 1-2 haftalık farm gerekir.
+
+        ---
+
+        - Sezon 5 Bölüm 2 gerekir.
+        - 375 Eternal Ice Shard ve 56.000 karma karşılığında Bjora Marches haritasının 2.kısmındaki (harita sınırlarını geçin) Spirit’s Refugee waypointinin yanında bulunan Humble Stone npc’sinden alınabilir.
+        - Ayrıca “Idolatry” koleksiyonunu tamamlamanızı isteyecektir.
+        - Bu koleksiyonu yapabilmek için Bölüm 2 hikayesinin (Shadow in the Ice) 4. kısmını (The Hunt Begins) başlatmanız gerekiyor.
+
+        Idolatry Koleksiyonu: https://www.youtube.com/watch?v=SVZ8RldCIxc
+
+        ---
+
+        **End Game (Oyun Sonu) İçerikler [-Strike Görevleri]**
+
+        Oynadıkça biriken paralarıyla alınabilir (lobi satıcılarından), fractal ve raidlerden dropları var.
     
     === "Yüzük"
 
         **Living World Sezon Satıcıları**
 
+        Gerekebilecek para birimleri:
+
+        - Harita materyalleri ve Unbound Magic (Sezon 3)
+        - Volatile Magic (Sezon 4)
+        - Karma(Sezon 5)
+
+        ![](../assets/images/ascended-ekipman-rehberi/ascended-2.png)
+
+        - Sezon 3 Bölüm 3 gerekir.
+        - Bitterfrost Frontier haritasından Fresh Winterberry ve Unbound Magic karşılığında alınabilir.
+        - Fresh Winterberry, aynı haritadan günlük karakter başına toplanabilir, Bounty Tool ile toplayın (Lion’s Arch - Trader’s Forum - Barre Scorchmane’den alabilirsiniz. 3.sayfa, 7350 karma tanesi).
+        - Satıcı Slooshoo npc’si (Haritanın tam ortasındaki buzdan yapının üstünde).
+        - Karakter sayısı az ise 1 hafta civarı farm gerekir.
+
+        ---
+
+        ![](../assets/images/ascended-ekipman-rehberi/ascended-3.png)
+
+        - Sezon 4 Bölüm 6 gerekir.
+        - Dragonfall haritasından Mistborn Mote ve Volatile Magic karşılığında alınabilir.
+        - Mistborn mote, aynı haritada Mistborn Coffer sandıklarını açarak (eventlerden anahtarı ile birlikte bulunabilir) kasılabilir.
+        - Takılar haritanın giriş bölgesinin üç ayrı çıkış yolunun kenarında bulunan npc’lerden alınabilir (npc’lerden alım yapabilmek için bulundukları yolların götürdüğü bölgelerde 10’ar event yapılmış olmalıdır).
+        - 1-2 haftalık farm gerekir.
+
+        ---
+
+        **End Game (Oyun Sonu) İçerikler [-Strike Görevleri]**
+
+        Oynadıkça biriken paralarıyla alınabilir (lobi satıcılarından), fractal ve raidlerden dropları var.
+
     === "Kolye"
 
         **Living World Sezon Satıcıları**
 
+        Gerekebilecek para birimleri:
 
+        - Harita materyalleri ve Unbound Magic (Sezon 3)
+        - Volatile Magic (Sezon 4)
+        - Karma(Sezon 5)
 
+        ![](../assets/images/ascended-ekipman-rehberi/ascended-3.png)
+
+        - Sezon 4 Bölüm 6 gerekir.
+        - Dragonfall haritasından Mistborn Mote ve Volatile Magic karşılığında alınabilir.
+        - Mistborn mote, aynı haritada Mistborn Coffer sandıklarını açarak (eventlerden anahtarı ile birlikte bulunabilir) kasılabilir.
+        - Takılar haritanın giriş bölgesinin üç ayrı çıkış yolunun kenarında bulunan npc’lerden alınabilir (npc’lerden alım yapabilmek için bulundukları yolların götürdüğü bölgelerde 10’ar event yapılmış olmalıdır).
+        - 1-2 haftalık farm gerekir.
+
+        ---
+
+        - Sezon 5 Bölüm 1 gerekir.
+        - Bjora Marches haritasından 375 Eternal Ice Shard ve 56.000 karma karşılığında alınabilir.
+        - Satıcı haritanın ilk bölümünün kuzey batısındaki ormanın içindeki küçük yapıdaki Brightshore adlı npc.
+        - Eternal Ice Shard, Bjora Marches’taki eventlerden - harita keşfinden - toplamalardan elde edilebileceği gibi Icebrood Saga’da (IBS) bulunan Essence Manipulation Masteryleri ile açılan sandıklardan da bolca kazanılabilir (bu sandıklar IBS Strike’ görevlerinde de bulunur, Eternal Ice Shard ayrıca sezon 4 harita materyallerine de çevrilebilir), tüm sandıkları açabilmek için essence manipulation mastery’lerinin hepsinin tier 2’sinin açılmış olması gerekir.
+        - Npc’yi bulup gerekli materyalleri tamamlasanız bile kolyeyi satın almak için “The Hunger” koleksiyonunu tamamlamanızı isteyecektir.
+        - Kolyeyi almak 1 haftaya kadar sürebilir.
+
+        The Hunger Koleksiyonu: https://www.youtube.com/watch?v=PkK0HeV5_z8
+
+        Mastery Sistemi Videolu Anlatım: https://youtu.be/RiO8-Yv-xNs
+
+        ---
+
+        **End Game (Oyun Sonu) İçerikler [-Strike Görevleri]**
+
+        Oynadıkça biriken paralarıyla alınabilir (lobi satıcılarından), fractal ve raidlerden dropları var.
+
+        ---
+
+        Pvp lobideki League Vendor (kuzey) npc’sinden alacağınız 4 farklı Essence eşyasını Mystic Forge’da 2 defa birleştirerek 5 dakikada stat seçilebilir bir ascended kolye olan Vial of Salt’ı elde edebilirsiniz. Şu an 21.5 gold civarı bir ücreti var, gerekli materyalleri trading posttan temin edebilirsiniz. Resimde yapım tarifi verilmiştir.
+
+        ![](../assets/images/ascended-ekipman-rehberi/ascended-4.png)
+
+        ![](../assets/images/ascended-ekipman-rehberi/ascended-5.png)
 
 === "Sırt Ekipmanı"
 
-    deneme
+    **Living World Sezon 3 Satıcıları**
 
+    En kolayı:
+    
+    - Sezon 3 Bölüm 3 Bitterfrost Frontier
+    - 400 berry + 5000 unbound magic
+    - Max 1 hafta
 
+    **Başarımlar**
 
-### Takı
+    Heart of Thorns:
+    
+    - Order koleksiyonları (Lightbringer's Pack, Magister's Pack, Warmaster's Pack) ve Luminate’s Backplate koleksiyonu
+    - Her biri için min 1 haftalık farm gerekiyor.
 
-#### Living World Sezon Satıcıları
+    Path of Fire:
+    
+    - Raise the Banners koleksiyonları (hikayedeki 3 seçim için, bu seçimler ayrı karakterlerle yapılmalı)
+    - Toplamda 4 adet ascended sırt ekipmanı
+    - Elde edilmeleri kolay (<1 gün)
 
-1. [Yüzük] Sezon 3 Bölüm 3 gerekir. Bitterfrost Frontier haritasından Fresh Winterberry ve Unbound Magic karşılığında alınabilir. Fresh Winterberry, aynı haritadan günlük karakter başına toplanabilir, Bounty Tool ile toplayın (Lion’s Arch - Trader’s Forum - Barre Scorchmane’den alabilirsiniz. 3. sayfa, 7350 karma tanesi) . Satıcı Slooshoo npc’si (Haritanın tam ortasındaki buzdan yapının üstünde) , karakter sayısı az ise 1 hafta civarı farm gerekir.
-2. 
-3. [Kolye, Yüzük] Sezon 4 Bölüm 6 gerekir. Dragonfall haritasından Mistborn Mote ve Volatile Magic karşılığında alınabilir. Mistborn mote, aynı haritada Mistborn Coffer sandıklarını açarak (eventlerden anahtarı ile birlikte bulunabilir) kasılabilir. Takılar haritanın giriş bölgesinin üç ayrı çıkış yolunun kenarında bulunan npc’lerden alınabilir (npc’lerden alım yapabilmek için bulundukları yolların götürdüğü bölgelerde 10’ar event yapılmış olmalıdır), 1-2 haftalık farm gerekir.
+    **Raidler**
 
-    ![](../assets/images/ascended-ekipman-rehberi/ascended-2.png)
+    Sabetha, Keep Construct, Xera ve Deimos’tan drop şansı var. Ayrıca Scholar Glenna’dan (raid bölgelerinin içinde) 600 magnetite shard + 20 golda tüm statlardan seçmeli olarak alınabilir. (2 hafta)
 
-    ![](../assets/images/ascended-ekipman-rehberi/ascended-3.png)
+    **Crafting (Mystic Forge)**
 
-4. [Kolye] Sezon 5 Bölüm 1 gerekir. Bjora Marches haritasından 375 Eternal Ice Shard ve 56.000 karma karşılığında alınabilir. Satıcı haritanın ilk bölümünün kuzey batısındaki ormanın içindeki küçük yapıdaki Brightshore adlı npc. Eternal Ice Shard, Bjora Marches’taki eventlerden - harita keşfinden - toplamalardan elde edilebileceği gibi Icebrood Saga’da (IBS) bulunan Essence Manipulation Masteryleri ile açılan sandıklardan da bolca kazanılabilir (bu sandıklar IBS Strike’ görevlerinde de bulunur, Eternal Ice Shard ayrıca sezon 4 harita materyallerine de çevrilebilir), tüm sandıkları açabilmek için essence manipulation mastery’lerinin hepsinin tier 2’sinin açılmış olması gerekir. Npc’yi bulup gerekli materyalleri tamamlasanız bile kolyeyi satın almak için “The Hunger” koleksiyonunu tamamlamanızı isteyecektir. Kolyeyi almak 1 haftaya kadar sürebilir.
-
-    The Hunger Koleksiyonu: https://www.youtube.com/watch?v=PkK0HeV5_z8
-
-    Mastery Sistemi Videolu Anlatım: https://youtu.be/RiO8-Yv-xNs
-
-5. [Küpe] Sezon 5 Bölüm 2 gerekir. 375 Eternal Ice Shard ve 56.000 karma karşılığında Bjora Marches haritasının 2. kısmındaki (harita sınırlarını geçin) Spirit’s Refugee waypointinin yanında bulunan Humble Stone npc’sinden alınabilir. Ayrıca “Idolatry” koleksiyonunu tamamlamanızı isteyecektir. Bu koleksiyonu yapabilmek için Bölüm 2 hikayesinin (Shadow in the Ice) 4. kısmını (The Hunt Begins) başlatmanız gerekiyor.
-
-    Idolatry Koleksiyonu: https://www.youtube.com/watch?v=SVZ8RldCIxc
-
-#### End Game (Oyun Sonu) İçerikler [-Strike Görevleri]
-
-Oynadıkça biriken paralarıyla alınabilir (lobi satıcılarından), fractal ve raidlerden dropları var.
-
-!! [Kolye] Pvp lobideki League Vendor (kuzey) npc’sinden alacağınız 4 farklı Essence eşyasını Mystic Forge’da 2 defa birleştirerek 5 dakikada stat seçilebilir bir ascended kolye olan Vial of Salt’ı elde edebilirsiniz. Şu an 21.5 gold civarı bir ücreti var, gerekli materyalleri trading posttan temin edebilirsiniz. Resimde yapım tarifi verilmiştir.
-
-![](../assets/images/ascended-ekipman-rehberi/ascended-4.png)
-
-![](../assets/images/ascended-ekipman-rehberi/ascended-5.png)
-
-### Sırt Ekipmanı
-
-#### Living World Sezon 3 Satıcıları
-
-En kolayı: Sezon 3 Bölüm 3 Bitterfrost Frontier,  400 berry + 5000 unbound magic , max 1 hafta
-
-#### Başarımlar
-
-Heart of Thorns: Order koleksiyonları (Lightbringer's Pack, Magister's Pack, Warmaster's Pack) ve Luminate’s Backplate koleksiyonu, her biri için min 1 haftalık farm gerekiyor.
-
-Path of Fire: Raise the Banners koleksiyonları (hikayedeki 3 seçim için, bu seçimler ayrı karakterlerle yapılmalı), toplamda 4 adet ascended sırt ekipmanı, elde edilmeleri kolay (<1 gün)
-
-#### Raidler
-
-Sabetha, Keep Construct, Xera ve Deimos’tan drop şansı var. Ayrıca Scholar Glenna’dan (raid bölgelerinin içinde) 600 magnetite shard + 20 golda tüm statlardan seçmeli olarak alınabilir. (2 hafta)
-
-#### Crafting (Mystic Forge)
-
-1. Fractal Capacitor (Berserker hariç düzgün statı olan yok, temel versiyonu ~2 hafta)
-2. Tempered Spinal Blade (~100 gold , Blade Shard'lar için 1-3 günlük farm)
-3. İnsan tanrıları temalı sırt ekipmanları: Light of Dwayna, Shadow of Grenth, Chaos of Lyssa, Bough of Melandru (~100 gold)
-4. Mawdrey (~100 gold ve ~1 hafta)
+    1. Fractal Capacitor (Berserker hariç düzgün statı olan yok, temel versiyonu ~2 hafta)
+    2. Tempered Spinal Blade (~100 gold , Blade Shard'lar için 1-3 günlük farm)
+    3. İnsan tanrıları temalı sırt ekipmanları: Light of Dwayna, Shadow of Grenth, Chaos of Lyssa, Bough of Melandru (~100 gold)
+    4. Mawdrey (~100 gold ve ~1 hafta)
 
