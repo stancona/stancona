@@ -35,6 +35,9 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
 
 ## Kolay Ascended Ekipman Elde Etme Yolları
 
+!!! warning "Önemli Bilgilendirme"
+    Ortalama fiyatlar verilmiştir piyasa dalgalanmalarına göre değişmeler ve tutarsızlıklar olabilir.
+
 === "Zırh"
 
     **Crafting (Meslek)**
@@ -101,10 +104,14 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
         - 16 Gold yapım ücreti
         - 2-3 hafta
 
+    ---
+
     **Crafting**
 
     - Tanesi ~25 gold (tek el) veya ~50 gold (çift el) + Meslek 500 Level Ücreti (10-20 gold)
     - Max 1-2 Saat
+
+    ---
 
     **End Game (Oyun Sonu) İçerikler**
 
