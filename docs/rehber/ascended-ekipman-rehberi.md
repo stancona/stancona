@@ -153,7 +153,9 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
         - Ayrıca “Idolatry” koleksiyonunu tamamlamanızı isteyecektir.
         - Bu koleksiyonu yapabilmek için Bölüm 2 hikayesinin (Shadow in the Ice) 4. kısmını (The Hunt Begins) başlatmanız gerekiyor.
 
-        Idolatry Koleksiyonu: https://www.youtube.com/watch?v=SVZ8RldCIxc
+        Idolatry Koleksiyonu:
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SVZ8RldCIxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         ---
 
@@ -222,9 +224,13 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
         - Npc’yi bulup gerekli materyalleri tamamlasanız bile kolyeyi satın almak için “The Hunger” koleksiyonunu tamamlamanızı isteyecektir.
         - Kolyeyi almak 1 haftaya kadar sürebilir.
 
-        The Hunger Koleksiyonu: https://www.youtube.com/watch?v=PkK0HeV5_z8
+        The Hunger Koleksiyonu:
 
-        Mastery Sistemi Videolu Anlatım: https://youtu.be/RiO8-Yv-xNs
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PkK0HeV5_z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        Mastery Sistemi Videolu Anlatım:
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/RiO8-Yv-xNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         ---
 
