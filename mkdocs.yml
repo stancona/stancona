@@ -19,18 +19,9 @@ theme:
   name: material
   custom_dir: overrides
   palette:
-    - scheme: slate
-      primary: deep purple
-      accent: teal
-      toggle:
-        icon: material/brightness-4
-        name: Aydınlık moda geç
-    - scheme: default
-      primary: deep purple
-      accent: teal
-      toggle:
-        icon: material/brightness-7
-        name: Karanlık moda geç
+    scheme: slate
+    primary: deep purple
+    accent: teal
 
   font:
     text: Open Sans
@@ -72,7 +63,7 @@ plugins:
       lang: tr
   - minify:
       minify_html: true
-  # - social
+  - social
 
 # Hooks
 
