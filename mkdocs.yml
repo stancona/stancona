@@ -5,6 +5,7 @@ site_author: Stancona
 site_description: >-
   Stancona, Guild Wars 2 topluluğunu bir araya getirmek ve Türkçe kaynak oluşturmak
   için kurulmuş bir guilddir.
+discord_url: http://discord.stancona.org/
 
 # Repository
 repo_name: stancona/stancona
@@ -20,13 +21,13 @@ theme:
   palette:
     - scheme: slate
       primary: deep purple
-      accent: deep orange
+      accent: teal
       toggle:
         icon: material/brightness-4
         name: Aydınlık moda geç
     - scheme: default
       primary: deep purple
-      accent: deep orange
+      accent: teal
       toggle:
         icon: material/brightness-7
         name: Karanlık moda geç

@@ -263,6 +263,8 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
     - 400 berry + 5000 unbound magic
     - Max 1 hafta
 
+    ---
+
     **Başarımlar**
 
     Heart of Thorns:
@@ -276,10 +278,14 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
     - Toplamda 4 adet ascended sırt ekipmanı
     - Elde edilmeleri kolay (<1 gün)
 
+    ---
+
     **Raidler**
 
     Sabetha, Keep Construct, Xera ve Deimos’tan drop şansı var. Ayrıca Scholar Glenna’dan (raid bölgelerinin içinde) 600 magnetite shard + 20 golda tüm statlardan seçmeli olarak alınabilir. (2 hafta)
 
+    ---
+    
     **Crafting (Mystic Forge)**
 
     1. Fractal Capacitor (Berserker hariç düzgün statı olan yok, temel versiyonu ~2 hafta)
