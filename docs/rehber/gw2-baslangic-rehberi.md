@@ -25,7 +25,7 @@ Guild Wars 2'de sunucu seçiminin WvW dışında bir önemi yoktur. Fakat şöyl
 
 ## Karakter Oluşturma
 
-![](../assets/images/gw2-baslangic-rehberi/karakter-olusturma.jpg)
+![](images/gw2-baslangic-rehberi/karakter-olusturma.jpg)
 
 *Tyria'nın beş ırkı. Soldan sağa: Charr, Human, Norn, Asura, Sylvari*
 
@@ -45,7 +45,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 ### :gw2-warrior-white: Warrior
 
-![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-warrior.jpg)
+![](images/gw2-baslangic-rehberi/guild-wars-2-class-guide-warrior.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
@@ -56,7 +56,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 ### :gw2-guardian-white: Guardian
 
-![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-guardian.jpg)
+![](images/gw2-baslangic-rehberi/guild-wars-2-class-guide-guardian.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
@@ -70,7 +70,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 !!! warning "Uyarı"
     Bu sınıfı oynamanız için Heart of Thorns ek paketine ihtiyacınız vardır.
 
-![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-revenant.jpg)
+![](images/gw2-baslangic-rehberi/guild-wars-2-class-guide-revenant.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
@@ -81,7 +81,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 ### :gw2-ranger-white: Ranger
 
-![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-ranger.jpg)
+![](images/gw2-baslangic-rehberi/guild-wars-2-class-guide-ranger.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
@@ -92,7 +92,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 ### :gw2-thief-white: Thief
 
-![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-thief.jpg)
+![](images/gw2-baslangic-rehberi/guild-wars-2-class-guide-thief.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
@@ -103,7 +103,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 ### :gw2-engineer-white: Engineer
 
-![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-engineer.jpg)
+![](images/gw2-baslangic-rehberi/guild-wars-2-class-guide-engineer.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
@@ -114,7 +114,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 ### :gw2-necromancer-white: Necromancer
 
-![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-necromancer.jpg)
+![](images/gw2-baslangic-rehberi/guild-wars-2-class-guide-necromancer.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
@@ -125,7 +125,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 ### :gw2-elementalist-white: Elementalist
 
-![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-elementalist.jpg)
+![](images/gw2-baslangic-rehberi/guild-wars-2-class-guide-elementalist.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
@@ -136,7 +136,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 ### :gw2-mesmer-white: Mesmer
 
-![](../assets/images/gw2-baslangic-rehberi/guild-wars-2-class-guide-mesmer.jpg)
+![](images/gw2-baslangic-rehberi/guild-wars-2-class-guide-mesmer.jpg)
 
 | Genel Bilgi       |             |
 | ----------------- | ----------- |
@@ -155,19 +155,19 @@ Oyun içerik olarak genel hatlarıyla üçe ayrılıyor bunlar; PvE, PvP, WvW. G
 
 ### PvE
 
-![](../assets/images/gw2-baslangic-rehberi/gw2-pve.jpg)
+![](images/gw2-baslangic-rehberi/gw2-pve.jpg)
 
 Oyununa ana içeriklerinden birisidir, oyuncular arası kavga ve dövüşten uzaktır. Etkinlikler, world bosslar, zindanalar, raidler, hikayeler, vb.. şeyler vardır.
 
 ### PvP
 
-![](../assets/images/gw2-baslangic-rehberi/gw2-pvp.jpg)
+![](images/gw2-baslangic-rehberi/gw2-pvp.jpg)
 
 Oyunun PvP si şu nedenlerden ötürü çok güzeldir, birincisi seviye sınırı yoktur bu da demek ki 1 seviye bir karakterinizle direkt pvp girebilirsiniz bütün skilleri açık olacaktır, ikincisi ise eşyaların statlarının bir önemi yoktur, ölçeklendirilmiş bir stat sistemi vardır. Genellikle 5v5 oynanır, bölge tutma, takım ölüm maçı, yan objektifler yapmalı modları vardır.
 
 ### WvW
 
-![](../assets/images/gw2-baslangic-rehberi/gw2-wvw.jpg)
+![](images/gw2-baslangic-rehberi/gw2-wvw.jpg)
 
 Sunucunuzu temsil ettiğiniz bu modda her hafta en çok Kamp, Kule ve Kaleyi elinde tutacak diğer 2 sunucu ile karşı karşıya kalırsınız, kısacası sunucunuzun onuru sunucudaki oyunculara bağlıdır. Fightlar genelde 1v1 den başlayıp 100v100 e kadar gidebilir. Ve bu modda eşyaların statlarının önemi vardır. Bilgisayarınız çok iyi değilse grafik ayarlarından Model Limit ve Model Quality ayarlarınızı düşürmenizi öneririm yoksa kasa üzerinde mangal yapma ihtimaliniz var.
 

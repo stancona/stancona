@@ -31,7 +31,7 @@ Ascended silah ve zırhların stat kombinasyonları Mystic Forge kullanılarak d
 
 Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, güçlendirmeler %100 ihtimalle geri alınır.
 
-![](../assets/images/ascended-ekipman-rehberi/ascended-1.png)
+![](images/ascended-ekipman-rehberi/ascended-1.png)
 
 ## Kolay Ascended Ekipman Elde Etme Yolları
 
@@ -135,7 +135,7 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
         - Volatile Magic (Sezon 4)
         - Karma(Sezon 5)
 
-        ![](../assets/images/ascended-ekipman-rehberi/ascended-2.png)
+        ![](images/ascended-ekipman-rehberi/ascended-2.png)
 
         - Sezon 3 Bölüm 3 gerekir.
         - Bitterfrost Frontier haritasından Fresh Winterberry ve Unbound Magic karşılığında alınabilir.
@@ -145,7 +145,7 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
 
         ---
 
-        ![](../assets/images/ascended-ekipman-rehberi/ascended-3.png)
+        ![](images/ascended-ekipman-rehberi/ascended-3.png)
 
         - Sezon 4 Bölüm 6 gerekir.
         - Dragonfall haritasından Mistborn Mote ve Volatile Magic karşılığında alınabilir.
@@ -180,7 +180,7 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
         - Volatile Magic (Sezon 4)
         - Karma(Sezon 5)
 
-        ![](../assets/images/ascended-ekipman-rehberi/ascended-2.png)
+        ![](images/ascended-ekipman-rehberi/ascended-2.png)
 
         - Sezon 3 Bölüm 3 gerekir.
         - Bitterfrost Frontier haritasından Fresh Winterberry ve Unbound Magic karşılığında alınabilir.
@@ -190,7 +190,7 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
 
         ---
 
-        ![](../assets/images/ascended-ekipman-rehberi/ascended-3.png)
+        ![](images/ascended-ekipman-rehberi/ascended-3.png)
 
         - Sezon 4 Bölüm 6 gerekir.
         - Dragonfall haritasından Mistborn Mote ve Volatile Magic karşılığında alınabilir.
@@ -214,7 +214,7 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
         - Volatile Magic (Sezon 4)
         - Karma(Sezon 5)
 
-        ![](../assets/images/ascended-ekipman-rehberi/ascended-3.png)
+        ![](images/ascended-ekipman-rehberi/ascended-3.png)
 
         - Sezon 4 Bölüm 6 gerekir.
         - Dragonfall haritasından Mistborn Mote ve Volatile Magic karşılığında alınabilir.
@@ -249,9 +249,9 @@ Ascended ekipmanlar ascended salvage tool ve kitler ile parçalanabilirler, gü�
 
         Pvp lobideki League Vendor (kuzey) npc’sinden alacağınız 4 farklı Essence eşyasını Mystic Forge’da 2 defa birleştirerek 5 dakikada stat seçilebilir bir ascended kolye olan Vial of Salt’ı elde edebilirsiniz. Şu an 21.5 gold civarı bir ücreti var, gerekli materyalleri trading posttan temin edebilirsiniz. Resimde yapım tarifi verilmiştir.
 
-        ![](../assets/images/ascended-ekipman-rehberi/ascended-4.png)
+        ![](images/ascended-ekipman-rehberi/ascended-4.png)
 
-        ![](../assets/images/ascended-ekipman-rehberi/ascended-5.png)
+        ![](images/ascended-ekipman-rehberi/ascended-5.png)
 
 === "Sırt Ekipmanı"
 

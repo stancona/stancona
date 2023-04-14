@@ -2,7 +2,7 @@
 
 ## Başlangıç
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/art-pt2-world-map.png){ width="350" align=right }
+![](images/gw2-yeni-oyuncu-rehberi/art-pt2-world-map.png){ width="350" align=right }
 
 Oyuna karakterinizle ilk girdiğinizde, çok kısa bir öğretici bölümünü (bu bölümü geçemezsiniz) yapmanız gerekmektedir. Bundan sonra oyunun her yerine özgürce gidebilirsiniz.
 
@@ -56,38 +56,38 @@ Bu simgeler, kasabalar veya doğa olayları gibi önemli noktaları gösterir. A
 
 Arayüz oyunda şöyle görünüyor:
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/interface.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/interface.jpg)
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/interface-map.jpg){ width="250" align=left }
+![](images/gw2-yeni-oyuncu-rehberi/interface-map.jpg){ width="250" align=left }
 
 <br><br><br>Sağ alt köşede de görebileceğiniz gibi, çokça bakacağınız mini haritamız var. Mini haritanın konumunu değiştirebileceğinizi unutmayın.<br><br><br><br>
 
 Arayüzün altında skill çubuğu bulunur. Oyun içerisinde skilller 2 ye arılmıştır: silah skilleri ve sınıf skilleri. Sol kısım (1-5) sınıfınıza özel sillah skilleri, sağ kısım (6-0) ise sınıfınıza özel seçilebilir olan sınıf skilleridir. Bu iki skill çubuğunun arasında <span style="color:red">**Can Barı**</span> ve <span style="color:orange">**Dayanıklılık Barı**</span> vardır. Dayanıklılık barı oyun içerisinde takla attığınızda harcadığınız enerjiyi gösteren bardır. En sağ tarafta ise seçtiğiniz binek görünmektedir. Sağdaki skill barının üzerinde ise Buff ve Debuff lar görünmektedir.
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/interface-skillbar.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/interface-skillbar.jpg)
   <figcaption>Örnek bir ranger skill barı</figcaption>
 </figure>
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/interface-story.jpg){ align=left }
+![](images/gw2-yeni-oyuncu-rehberi/interface-story.jpg){ align=left }
 
 <br><br>Arayüz'ün sağ üst köşesinde, size **aktif olan hikayenizdeki** doğru yolu gösteren bir pusula mevcuttur. Not: Bu göstergeyi ayarlardan kapatabilirsiniz.<br><br><br>
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/interface-achi.jpg){ align=right }
+![](images/gw2-yeni-oyuncu-rehberi/interface-achi.jpg){ align=right }
 
 Pusulanın altında favori başarım paneliniz bulunur, buraya başarım sayfasından istediğiniz bir başarımı favoriye ekleyerek bi başarım ekleyebilirsiniz.
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/interface-chat.jpg){ width="400" align=left }
+![](images/gw2-yeni-oyuncu-rehberi/interface-chat.jpg){ width="400" align=left }
 
 <br><br><br><br>Sol alt köşede sohbet penceresi mevcut.<br><br><br><br>
 
 Ekranın en alt kısmında boylu boyunca exp çubuğu vardır.
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/interface-xpbar.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/interface-xpbar.jpg)
 
 Son olarak, sol üst köşede kısayollarımız var. Soldan sağa doğru sırayla:
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/interface-buttons.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/interface-buttons.jpg)
 
 - **Ayarlar**
 - **Arkadaş Listesi / LFG**
@@ -101,7 +101,7 @@ Son olarak, sol üst köşede kısayollarımız var. Soldan sağa doğru sırayl
 
 ## Cenk Meydanı (Combat)
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/combat.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/combat.jpg)
 
 Combat esnasında skillerinizi değiştiremez veya waypointleri kullanamazsınız. Combat durumundan çıktığınızı kolayca anlayabilirsiniz, canınız hızla doluyorsa ve skillerinizi değiştirebiliyorsanız artık cenk meydanından çıkmışsınız demektir.
 
@@ -183,7 +183,7 @@ Her zaman dikkat etmelisiniz ki hayatta kalmak ve güzel hasar verebilmek için 
 
 ### Enerji
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/combat-endurance.jpg){ width="200" align=left }
+![](images/gw2-yeni-oyuncu-rehberi/combat-endurance.jpg){ width="200" align=left }
 
 Canınızın üstündeki sarı çubuklar sizin enerji göstergenizdir. Bu çubuk attığınız dodge (takla) lardan etkilenir. Eğer bir saldırıdan takla atarak kaçmak istiyorsanız 1 adet enerji çubuğunuzu harcamanız gerekmektedir.
 
@@ -194,9 +194,9 @@ Dodge atmak çoğu saldırıdan kaçınmanızı sağlar ve cidden oyunun en öne
 Combatın en ama en önemli noktalarından birisi **Defiance Bar** dır. Bu bar genellikle Champion Legendary yaratıklarda görülür fakat bazı Elite ve Veteran yaratıkların da defiance barı vardır. Bu barı yaratığın sağlık barının hemen altında görebilirsiniz. Bu barı kırmak etkinliklerde yaratıkları tokatlarken, zindanlarda, fractalda, raid vs. gibi yerlerde hayati öneme sahiptir.
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/combat-defiancebar.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/combat-defiancebar.jpg)
 
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/combat-defiancebar2.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/combat-defiancebar2.jpg)
 </figure>
 
 Defiance Barın rengi yukarıdaki gibi turkuaz rengindedir. Bu düşmanın kitle kontrol skillerine(CC Skilleri) karşı bağışıklı olduğunu gösterir. Fakat bu cc skillerini kullanarak bu barı kırabiliriz, Soft CC ve Hard CC ler olmak üzere iki adet CC vardır. Soft CC ler condi hasarı gibi yavaşça düşürürken, Hard CC ler şaaak diye indiriverirler. Gelin bunlar neymiş bakalım:
@@ -229,7 +229,7 @@ Defiance Barın rengi yukarıdaki gibi turkuaz rengindedir. Bu düşmanın kitle
 Defiance Barını daha hızlı kırmak için genellikle **Hard CC** ler kullanılır. Defiance Bar bir süre sonra eğer etkilenmezse tekardan dolmaya başlar.
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/combat-defiancebar3.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/combat-defiancebar3.jpg)
 </figure>
 
 Defiance barı kırıldığında bu şekilde görünür. Kahverengi çubuk zaman içerisinde dolmaya başar ve tamamen dolduktan sonra tekrar turkuaz rengine dönüp tekrar kırılabilir.
@@ -240,31 +240,31 @@ Defiance Barı kırıldıktan sonra bilinmesi gereken en önemli şey, düşman�
 ![](../assets/images/gw2/knockdown.png) Knockdown  
 ![](../assets/images/gw2/exposed.png) Exposed (5 saniye boyunca %50 ek hasar alır)
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/combat-defiancebar4.jpg){ align=right }
+![](images/gw2-yeni-oyuncu-rehberi/combat-defiancebar4.jpg){ align=right }
 
 Bu uygulanacak efektin ne olduğunu öğrenmek için defiance barının üzerine mouse ile gelmen yeterli olacaktır. (...) olan yerde hangi efektin uygulanacağını görebilirsiniz.
 
 Bazı yaratıkların defiance barının kırılmaması özel durumları meydana getirebilir. Defiance barının zamanında kırılmaması tük takımı haritadan silip süpürebilir. Bu sebepten dolayı bu barı hızlı bir şekilde kırmak gerekir.
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/combat-defiancebar5.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/combat-defiancebar5.jpg)
 </figure>
 
 Defiance barının bu şekilde görünmesi, **kilitli** olduğu anlamına gelir ve her türlü CC skiline karşı bağışıklığı olduğunu gösterir.
 
 ### Son Çırpınmalar
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/combat-laststand.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/combat-laststand.jpg)
 
 Canınız 0'a ulaştığında, yerden bir şeyler fırlatabildiğiniz, kendinizi iyileştirmeye çalışabildiğiniz birkaç skill açılır. Bu duruma Son Çırpınma (Downed/Last Stand) denir. Her sınıfın kendine özel çırpınma skilleri vardır.
 
 Eğer hasar verdiğin bir düşman ölürse anında ayağa kalkabilirsin veya takım arkadaşların ya da kendin iyileştirme yaparak seni kaldırabilir. Eğer bu durumda da kalan canını tüketirsen tamamen ölürsün ve bi waypointe ışınlanman veya arkadaşlarının seni uzun uzun iyileştirerek kaldırması gerekir.
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/combat-laststand2.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/combat-laststand2.jpg)
 
 ## Attributes
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/attributes.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/attributes.jpg)
 
 Attribute lar temel olarak sizin statlarınızdır. Ne kadar yüksek olursa efektifliği o kadar artar. Statlar şu şekilde kategorilere ayrılmıştır:
 
@@ -324,20 +324,20 @@ Her birinin ne işe yaradığına bi göz gezdirelim:
 
 ## Karakter Paneli
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/heropanel.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/heropanel.jpg)
 
 Karakter panelinizle (varsayılan olarak H tuşuna basarak ulaşabilirsiniz) karakterlerinizi yönetip, başarımlarınızı, hikayelerinizi ve mastery puanlarınıza falan erişebilirsiniz. Özet olarak karakter panelinin kısımlarını inceleyelim:
 
 ### Ekipman
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/heropanel-equipment.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/heropanel-equipment.jpg)
 
 Buradan ekipmanlarınızı görebilir ve değiştirebilirsiniz. Ayrıca statlarınızı da bu panelden görebilirsiniz. Sol kısımda envanterinizde veya diğer ekipman şablonlarınızdaki ekipmanları giyebilirsiniz. Orta ve sağ alt kısım ise üzerinize giymiş olduğunuz ekipmanları gösterir. Üst tarafta sayılar ile belirtilen yerde farklı ekipman dizilimlerinizi çantanızda yer işgal etmeden saklayabilirsiniz.
 
 ### Build
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/heropanel-build.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/heropanel-build.jpg)
   <figcaption>Ranger build sekmesi</figcaption>
 </figure>
 
@@ -346,7 +346,7 @@ Bu kısımda, öğrendiğiniz yetenekleri onunla ilgili yapabileceğiniz buildin
 ### Eğitim
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/heropanel-training.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/heropanel-training.jpg)
   <figcaption>Ranger training ağacı</figcaption>
 </figure>
 
@@ -354,7 +354,7 @@ Build kısmında buildinizi ayarlamanız için önce burdan öğrenmeniz gerekme
 
 ### Hikayeler
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/heropanel-story.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/heropanel-story.jpg)
 
 Hikayeler kısmından tamamladığınız veya yarım olan hikayelerinize erişebilirsiniz.
 
@@ -379,7 +379,7 @@ Hikayeler kısmından tamamladığınız veya yarım olan hikayelerinize erişeb
 
 ### Crafting
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/heropanel-crafting.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/heropanel-crafting.jpg)
 
 Burdan karakterinizin sahip olduğu meslekleri görebilirsiniz. Craft istasyonlarına gidip de craftınızı da orada yapabilirsiniz. Her karakter aktif olarak 2 adet mesleğe sahip olabilir. Aktif olarak ne demek diyecek olursan, aynı adna iki meslekte uzmanlaşmak demek. Üçüncü birini öğrenmek istediğinde birini seçip onun yerine alman gerekir veya gem strore da ek bi meslek slotu daha alabilirsin (hiç tavsiye etmem).
 
@@ -389,7 +389,7 @@ Yukarıda da dediğim gibi craft yapmak için bi craft istasyonuna gitmeniz gere
 
 ### Achievement Paneli
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/heropanel-achi.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/heropanel-achi.jpg)
 
 Başarım sekmesinde tamamlamış olduğunuz (veya tamamlamadığınız) başarımları görebilirsiniz. Ayrıca günlük giriş ödüllerini ve neresinde olduğunuzu görebilirsiniz. Günlük giriş ödülleri en sonuncuya ulaştıktan sonra başa döner. Ve en altta hesap bonuslarınızı görebilirsiniz:
 
@@ -408,7 +408,7 @@ Her şeyden önce pasif olarak aylık 60 gold getirisi oluyor ve şöyle bir şe
     HoT veya PoF ek paketi gereklidir
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/heropanel-mastery.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/heropanel-mastery.jpg)
   <figcaption>Central Tyria - Fractal Attunement Mastery Ağacı</figcaption>
 </figure>
 
@@ -426,13 +426,13 @@ Masteryleri açmak için önce o mastery nin seviyesini kasıp sonrasında topla
 
 ## Seviye Kasmak
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/leveling.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/leveling.jpg)
 
 Guild Wars 2'de seviye sınırı 80'dir. 80.seviyeden sonra seviye barını her doldurduğunuzda size [spirit shard](https://wiki.guildwars2.com/wiki/Spirit_Shard) isminde bir para birimi ([Mystic Forge](https://wiki.guildwars2.com/wiki/Mystic_Forge) için kullanılan bir para birimi) verir. Eğer ek paketleriniz varsa bu seviyeler öncelikli olarak mastery seviyelerinize gider.
 
 Oyunun en başında asıl amacınız son seviyeye ulaşmak olsun. Bunu yapmanın bir sürü yolu var, etkinlikler, harita tamamlama, crafting, pvp vs. gibi oyunun içerisinde genel manada yaptığınız her şeyden seviye kazanırsınız. Haritalardaki turuncu renkli <span style="color:orange">Dinamik Etkinlikleri</span> kaçırmayın ve her 10 levelda bir hikaye görevinizi yapın, bu sayede efsane bir hikayenin de baş rolü olmuş olursunuz.
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/leveling-vista.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/leveling-vista.jpg)
 
 Benim tavsiyem hepsinden biraz biraz yapmanız olur. Dinamik eventlar, 10 seviye görevleri ile hızlıca ilerleyebilirsiniz. Eşya konusunda da kafanızı çok yormanıza gerek yok, 80 olasıya kadar oyunun size verdiği eşyalardan sayıları daha yüksek olanı giyip geçin direkt. 80 olasıya kadar paranızı boşa harcamayın.
 
@@ -449,21 +449,21 @@ Guild Wars 2'de 3 çeşit toplanabilir materyal vardır, bunlar:
 ### Metal (Kazma kullanılır)
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/gathering-metal.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/gathering-metal.jpg)
   <figcaption>Queensdale haritasında toplama yapan bir köylü</figcaption>
 </figure>
 
 ### Odun (Balta kullanılır)
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/gathering-wood.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/gathering-wood.jpg)
   <figcaption>Queensdale haritasında toplama yapan bir köylü</figcaption>
 </figure>
 
 ### Bitki (Orak kullanılır)
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/gathering-plant.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/gathering-plant.jpg)
   <figcaption>Queensdale haritasında toplama yapan bir köylü</figcaption>
 </figure>
 
@@ -471,7 +471,7 @@ Her haritanın kendine özel seviyesi vardır, bu sebepten dolayı o haritadan t
 
 Her toplama aletinin kendine özel bir kullanım sayısı vardır. Tamamen kullandığınızda gidip bir tane daha almanız gerekmekte ama merak etmeyin sudan ucuz şeyler bunlar. Sürekli satın al satın al ile uğraşmam ben üşengeç bir insanım diyorsanız gem store dan **Unbreakable Gathering Tools** eşyasını alabilirsiniz. İndirimli daha ucuza geleceğini unutmayın.
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/unbreakable-tools.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/unbreakable-tools.jpg)
 
 ## Dungeon/Fractal/Strike/Raid
 
@@ -480,7 +480,7 @@ Guild Wars 2, kendine saygı duyan her MMO oyununda olduğu gibi Dungeon ve Raid
 ### Dungeon (Zindan)
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/dungeons.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/dungeons.jpg)
   <figcaption>Ascalon zindanının giriş kapısı</figcaption>
 </figure>
 
@@ -506,7 +506,7 @@ Her zindanın kendine özel bir para birimi vardır. Bu para birimleriyle o zind
 ### Fractal
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/fractal.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/fractal.jpg)
   <figcaption>Fractal lobisi</figcaption>
 </figure>
 
@@ -527,7 +527,7 @@ Fractal ödülleri günlüktür, daily fractal ödüllerini her gün girerek ala
 
 ### Strike Görevleri
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/strike.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/strike.jpg)
 
 Oyuna Icebrood Saga ile eklenen bu görevler zindanlardan zor raidlerden kolay olup zindan raid arası köprü niteliğinde görevlerdir. Eğer raidlere girmek istiyorsanız strike görevleri güzel bir başlangıç olacaktır. 80 seviye olduğunuzda haritadan [Hall of Monuments](https://wiki.guildwars2.com/wiki/Hall_of_Monuments) mekanını bulup hemen ışınlanabilirsiniz.
 
@@ -537,7 +537,7 @@ Ek olarak Skyscale bineği kasanlar için de LS4 harita paralarını buradan kaz
 
 ### Raid
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/raid.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/raid.jpg)
 
 Raidler Hot ve PoF paketi ile beraber kullanıma açılırlar. 10 kişilik bir ekiple, belirli sınıflara ve buildlere ihtiyaç duyulur. Oyunda öğrenmesi ve ustalaşması zor içeriklerden birisidir.
 
@@ -555,7 +555,7 @@ Raidler oyun içerisinde **Wing** olarak adlandırılır. Oyunda şu anda 7 adet
 
 ## Guildler
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/guild.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/guild.jpg)
 
 Şimdi sosyalleşme zamanı. Demek istediğim, tek başına oynayacaksan MMO oynamanın anlamı ne? Oyunda birçok guild mevcut ve her hesap toplamda 5 adet guilde girebilir fakat aynı anda sadece 1 tanesini temsil edebilir. Bu temsil etme olayını guildin solundaki tike tıklayarak yapabilirsin.
 
@@ -590,7 +590,7 @@ Zırhlar 6 parçaya ayrılır:
 
 Oyunda yere düştüğünüzde veya öldüğünüzde zırhınız hasar alır. Bunu nerden görebilirim diye soracak olursan can göstergesinin sağ altında turuncu bir kalkan işareti belirir. İşte o göründüğünde zırhınızı tamir etmeniz gerekmektedir. Tamir için bi örs bulmanız yeterli:
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/anvil.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/anvil.jpg)
 
 Fazla endişelenmeyin, tamirat yapmanın bi ücreti yok.
 
@@ -632,7 +632,7 @@ Oyunun başında ille de ascended diye ölmenize de gerek yok tabi ki gerekli ve
 ### Prefix (Statlar)
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/prefix.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/prefix.jpg)
   <figcaption>Örnek bir Harrier statı</figcaption>
 </figure>
 
@@ -647,32 +647,32 @@ Oyun ilk çıktığından beri istenen ve PoF ile hayatımıza giren şeylerdir 
 
 ### Raptor
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/raptor.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/raptor.jpg)
 
 Raptor, uzun mesafeleri atlayarak geçebilen bir binektir. Kolay ulaşım ve farmlarda genelde kullanılan binektir.
 
 ### Springer (Tavşan)
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/springer.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/springer.jpg)
 
 Bu dev tavşanımızın tatlılık oranı zıplamasıyla eş değerdir. Çok yükseklere zıplayarak yüksek yerlere daha da rahat erişebilirsiniz.
 
 ### Skimmer
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/skimmer.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/skimmer.jpg)
 
 Yerden ayağınızı kesen ilk bineğiniz olan bu binek hevesleri az kırmakla beraber baya da işe yarıyor. Kendisi karada böyle gitmekle beraber su üzerinde ek bir hız kazanarak bu şekilde gidebiliyor. Bunun yanı sıra kızgın çöl ve bataklık gibi size zarar verebilecek zeminlerden ayağınızı değmeden zarar almadan gidebilmenizi sağlar. Ve yeni gelen özelliği ile beraber bu bineği geliştirirseniz su altında da bu binekle gezebilirsiniz!
 
 ### Jackal
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/jackal.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/jackal.jpg)
 
 Kendisi çok efsane bir binek olan çakal çok güzel özelliklere sahiptir. Kısa mesafe ışınlanma yapabilir daha çok sıçrama gibi. Fakat özel kılan noktası şu sıçrama esnasında gelen bütün hasarlardan kaçınabilirsiniz. Ayrı olarak bu sıçrama hareketi momentumu sıfırlamak için de kullanılabilir. Örnek olarak yüksek bir kuleden bu binekle aşağı atladığınızda düşüş esnasında sıçrayabildiğiniz gibi yere değmeden bir kere sıçramanız momentumu sıfırlayacağından düşmeden hiç hasar almazsınız. Ayrıca kum portallarından da bu binek sayesinde geçebilirsiniz.
 
 ### Griffon
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/griffon.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/griffon.jpg)
   <figcaption>Şahgaga</figcaption>
 </figure>
 
@@ -681,7 +681,7 @@ Kendisi çok efsane bir binek olan çakal çok güzel özelliklere sahiptir. Kı
 ### Roller Beetle
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/beetle.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/beetle.jpg)
   <figcaption>Nissan 350z</figcaption>
 </figure>
 
@@ -689,19 +689,19 @@ Geldik en favorilerimden diğeri olan şu tatlış böceğimize. Kendisi oyunumu
 
 ### Skyscale
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/skyscale.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/skyscale.jpg)
 
 Bu göğü delen abimiz oyuna LS4 hikayesinin sonunda eklenmiştir ve bu abimizle yükseklik kazanabilir, havada asılı kalabilir ve duvarlara tutunabilirsiniz. Bu bineği alabilmek için tüm LS4 bölümlerine sahip olmanız gerekmektedir. Ve oldukça uzun başarım silsilesi sizi bekliyor. Ama merak etmeyin çok eğlenceli spoiler vermeyeyim.
 
 ### Warclaw
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/warclaw.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/warclaw.jpg)
 
 Bu arkadaş WvW için çıkmış ilk ve tek binektir. Kendisinin full potansiyelini wvw haritalarında görebilirsiniz (yerdeki düşmana finisher atabilir, kapıları kırabilirsiniz, vs.) fakat yine de pve de kullanılabilir ama pek bi işe yaramıyor pve de. Açmak ve geliştirmek için wvw oynamalısınız.
 
 ## Meslekler
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/crafting.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/crafting.jpg)
 
 Oyunda 9 farklı meslek bulunuyor bunlar:
 
@@ -719,21 +719,21 @@ Oyun sonu eşyalarını (Ascended, Legendary) üretmek için mesleklerinizin son
 
 ## Banka
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/bank.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/bank.jpg)
 
 Tüm karakterlerinizle erişebileceğiniz bankanız en başta 30 slot olarak gelir. Bu slotu gem store dan arttırabilirsiniz.
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/bank-material.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/bank-material.jpg)
 
 Bankanızın diğer bir sekmesinde materyal deposu bulunuyor, kırdığınız eşyaları deposit ederek buraya gönderebilir ve craft esnasında envanterinizde olmasa bile malzemeleri kullanabilirsiniz. Her materyalden toplam 250 adet burada saklayabilirsiniz. Gem store dan bu depolama limitini arttırabilirisniz.
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/bank-wardrobe.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/bank-wardrobe.jpg)
 
 Bankanızın bir diğer sekmesinde de gardırop bölümü bulunur. Burası skinlerini açtığınız ekipmanları gösterir. Bu skinleri zırhlarınıza veya silahlarınıza Transmutation Charge yardımıyla giydirebilirsiniz. Bir ekipmanın skinini açmak için onu kullanmanız, kırmanız veya mystic forge a atmanız gerekmektedir.
 
 ## Black Lion Trading Post (Kapalı Çarşı)
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/trading-post.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/trading-post.jpg)
 
 Guild Wars 2'nin kapalı çarşısına hoş geldiniz. Burada karakterlere ve hesaplara bağlı olmayan her şeyi alıp satabilirsiniz. 1.Jenerasyon Legendary silahları bile alabilirsiniz! Materyal ve ihtiyacınız olan diğer şeyler için burada baya zaman geçireceksiniz.
 
@@ -742,7 +742,7 @@ TP de bir mal için alış teklifi verebilir ya da en düşük satış fiyatına
 ## Gem Store
 
 <figure markdown>
-  ![](../assets/images/gw2-yeni-oyuncu-rehberi/gem-store.jpg)
+  ![](images/gw2-yeni-oyuncu-rehberi/gem-store.jpg)
   <figcaption>ArenaNet'in ekmek kapısı</figcaption>
 </figure>
 
@@ -754,7 +754,7 @@ Oyunda gem elde etmenin 3 yolu vardır:
 2. **Her 5.000 başarımda bir ödül olarak alabilirsiniz**
 3. **Oyun içi goldu geme çevirebilirisniz**
 
-![](../assets/images/gw2-yeni-oyuncu-rehberi/exchange.jpg)
+![](images/gw2-yeni-oyuncu-rehberi/exchange.jpg)
 
 Yukarıda da gördüğünüz gibi belirli gem miktarlarının gold karşılığı görebilirsiniz. Bu miktardan daha az veya daha belirli bir sayıda gemi gold yardımı ile alacaksanız **Custom Exchange** tuşu yardımı ile 1 gem bile alabilirsiniz direkt.
 
