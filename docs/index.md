@@ -8,6 +8,3 @@ hide:
 ---
 
 # Ana Sayfa
-
-Biraz yapım aşamasında sayılırız..
-

@@ -24,7 +24,7 @@ theme:
     accent: teal
 
   font:
-    text: Open Sans
+    text: Roboto
     code: Fira Code
   language: tr
   # logo: assets/logo.png
@@ -91,7 +91,6 @@ markdown_extensions:
       generic: true
   - pymdownx.betterem:
       smart_enable: all
-  - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
@@ -102,8 +101,11 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
+  - pymdownx.critic
+  - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.smartsymbols
   - pymdownx.superfences:
       custom_fences:
@@ -114,7 +116,6 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.tilde
 
 # Page tree
 nav:
