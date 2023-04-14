@@ -63,7 +63,7 @@ plugins:
       lang: tr
   - minify:
       minify_html: true
-  - social
+  # - social
 
 # Hooks
 
