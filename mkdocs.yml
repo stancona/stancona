@@ -1,6 +1,6 @@
 # Project information
 site_name: Stancona
-site_url: https://stancona.github.io/stancona/
+site_url: https://stancona.org/
 site_author: Stancona
 site_description: >-
   Stancona, Guild Wars 2 topluluğunu bir araya getirmek ve Türkçe kaynak oluşturmak
@@ -63,7 +63,7 @@ plugins:
       lang: tr
   - minify:
       minify_html: true
-  - social
+  # - social
 
 # Hooks
 
@@ -124,6 +124,7 @@ nav:
     - Yeni Oyuncu Rehberi: rehber/gw2-yeni-oyuncu-rehberi.md
     - İpuçları ve Püf Noktalar: rehber/ipuclari-puf-noktalar.md
     - Ascended Ekipman Rehberi: rehber/ascended-ekipman-rehberi.md
+    - Harici Kaynaklar: rehber/harici-kaynaklar.md
     - Raid:
       - Spirit Vale:
         - Vale Guardian: rehber/raid/spirit-vale/vale-guardian.md
