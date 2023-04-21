@@ -10,10 +10,10 @@ permissions:
 
 jobs:
   deploy:
-    name: Deploy site
+    name: Build site
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -21,13 +21,15 @@ jobs:
         with:
           python-version: 3.x
 
-      - uses: actions/cache@v2
+      - name: Set up build cache
+        uses: actions/cache@v3
         with:
           key: ${{ github.ref }}
           path: .cache
       
-      - name: Install dependencies
-        run: pip install mkdocs-material \
+      - name: Install Python dependencies
+        run: pip install \
+              mkdocs-material \
               mkdocs-minify-plugin \
               mkdocs-redirects \
               pillow cairosvg \
