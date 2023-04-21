@@ -3,6 +3,7 @@ hide:
   - navigation
   - tags
   - footer
+  - toc
 ---
 
 # Sıkça Sorulan Sorular
