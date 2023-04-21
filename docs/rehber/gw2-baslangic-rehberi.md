@@ -147,7 +147,7 @@ Her sınıfı detaylı bir şekilde tanımlamak değişen metadan ve oynayış s
 
 Aşağıdaki videoyu izleyerek sınıflar ve alt sınıflar hakkında görünüşsel, animasyonsal ve skillsel fikir edinebilirsiniz.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/y4D2dqG0eoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="1280" height="430" src="https://www.youtube.com/embed/y4D2dqG0eoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 ## Oyun
 

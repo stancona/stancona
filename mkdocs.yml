@@ -63,7 +63,23 @@ plugins:
       lang: tr
   - minify:
       minify_html: true
-  - social
+  - social:
+      cards: !ENV [CARDS, false]
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+  - git-revision-date-localized:
+      enable_creation_date: true
 
 # Hooks
 
@@ -127,10 +143,7 @@ nav:
     - Ascended Ekipman Rehberi: rehber/ascended-ekipman-rehberi.md
     - Harici Kaynaklar: rehber/harici-kaynaklar.md
     - Binek:
-      - Raptor: rehber/binek/raptor.md
-      - Springer: rehber/binek/springer.md
-      - Skimmer: rehber/binek/skimmer.md
-      - Jackal: rehber/binek/jackal.md
+      - İlk Binekler: rehber/binek/ilk-binekler.md
       - Griffon: rehber/binek/griffon.md
       - Roller Beetle: rehber/binek/roller-beetle.md
       - Warclaw: rehber/binek/warclaw.md

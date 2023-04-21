@@ -1,3 +1,0 @@
-# Jackal
-
-Yakında
