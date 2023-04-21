@@ -63,8 +63,7 @@ plugins:
       lang: tr
   - minify:
       minify_html: true
-  - social:
-      cards: !ENV CARDS
+  - social
   - glightbox:
       touchNavigation: true
       loop: false

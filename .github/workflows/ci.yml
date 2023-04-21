@@ -36,6 +36,3 @@ jobs:
 
       - name: Deploy site
         run: mkdocs gh-deploy --force
-
-env:
-  CARDS: ${{ vars.CARDS }}
