@@ -130,7 +130,7 @@ Guild Wars 2 güncellemelerinden sonra, ArcDPS oyunu çökertmeye başlayabilir.
 ArcDPS, onu daha da iyi yapan birkaç eklentiye sahiptir. Yüklemek için DLL'lerini ArcDPS ile aynı klasöre bırakın.
 
 - [Boon Table](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table): Boon'ları kolay okunabilir bir formatta gösterir. ArcDPS'deki varsayılan boon tablosunu okumak zordur. Boon Tablosunu gizlemek/göstermek için **Alt+Shift+B** tuşlarını kullanın.
-- [Mekanik Log](https://github.com/knoxfighter/GW2-ArcDPS-Mechanics-Log): Raid mekaniklerini izler ve bunları kolayca okunabilir bir çizelgede gösterir. Ancak unutmayın, bu eklentiyi kullanan bir pislik olmayın. Mekanik Log'u gizlemek/göstermek için **Alt+shift+L** tuşlarını kullanın.
+- [Mekanik Log](https://github.com/knoxfighter/GW2-ArcDPS-Mechanics-Log): Raid mekaniklerini izler ve bunları kolayca okunabilir bir çizelgede gösterir. Ancak unutmayın, bu eklentiyi kullanan bir pislik olmayın. Mekanik Log'u gizlemek/göstermek için **Alt+Shift+L** tuşlarını kullanın.
 - [Healing Stats Addon](https://github.com/Krappa322/arcdps_healing_stats): Yerel istatistiklere (oyundaki savaş kayıtları) dayalı olarak healing çıkışıyla ilgili istatistikleri gösterir. Ayrıca bu bilgiyi ArcDPS tarafından oluşturulan kayıt dosyasına da ekler.
 - [Clears Addon](https://github.com/gw2scratch/arcdps-clears): Hafta boyunca nereleri temizlediğinizi basit ve şık bir pencerede gösterir.
 - [Unofficial Extras Addon](https://github.com/Krappa322/arcdps_unofficial_extras_releases): Temel ArcDPS'e belirli işlevler ekler, kendi başına bir işlevi yoktur.
