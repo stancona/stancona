@@ -5,7 +5,7 @@ site_author: Stancona
 site_description: >-
   Stancona, Guild Wars 2 topluluğunu bir araya getirmek ve Türkçe kaynak oluşturmak
   için kurulmuş bir guilddir.
-discord_url: http://discord.stancona.org/
+discord_url: https://discord.stancona.org/
 
 # Repository
 repo_name: stancona/stancona
@@ -63,7 +63,7 @@ plugins:
       lang: tr
   - minify:
       minify_html: true
-  # - social
+  - social
 
 # Hooks
 

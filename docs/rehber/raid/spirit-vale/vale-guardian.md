@@ -1,6 +1,6 @@
 # Vale Guardian
 
-Vale Guardian (kısa adıyla "VG") Spirit Vale'in ilk bossudur. Fakat ilk boss olması onun en kolay boss olacağı anlamına gelmiyor! Bol hareketlilik, mekanik ve kargaşaya hazır olun. 
+Vale Guardian (kısa adıyla "VG") Spirit Vale(Wing 1)'in ilk bossudur. Fakat ilk boss olması onun en kolay boss olacağı anlamına gelmiyor! Bol hareketlilik, mekanik ve kargaşaya hazır olun. 
 
 ## Vale Guardian İle Savaşmadan Önce
 
@@ -83,7 +83,7 @@ Seeker'lar her 15 saniyede bir ortaya çıkar ve 20 saniye boyunca haritada kal�
 
 ---
 
-Vale Guardian, üç bölüme ayrılmış dairesel bir arenanın merkezinde bulunur. Arenanın her bölümü, öpre-event kısmında kestiğimiz renkli gardiyanlara karşılık gelen renklerle, kendisine bağlı üç adet sütuna sahiptir.
+Vale Guardian, üç bölüme ayrılmış dairesel bir arenanın merkezinde bulunur. Arenanın her bölümü, pre-event kısmında kestiğimiz renkli gardiyanlara karşılık gelen renklerle, kendisine bağlı üç adet sütuna sahiptir.
 
 <figure markdown>
   ![](images/vale-guardian/vale-guardian.webp)
@@ -166,7 +166,7 @@ Yeşil Alan yakındaysa, bu aşamada getirdiği ekstra hasardan kaçınmak için
 
 Canı %0'a ulaşana kadar Vale Guardian'a hasar vermeye devam edin.
 
-## Örnek Bir Kesim Videosu
+## Örnek Video
 
 ---
 
