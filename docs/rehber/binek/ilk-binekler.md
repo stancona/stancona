@@ -1,7 +1,7 @@
 # GW2'de İlk Bineklerinizi Alma Rehberi: Raptor, Springer, Skimmer, Jackal
 
 <figure markdown>
-  ![](images/ilk-binekler/gw2mounts-1-1.webp)
+  ![](images/ilk-binekler/gw2mounts.png)
 </figure>
 
 ## Başlarken
