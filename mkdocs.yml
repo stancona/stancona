@@ -64,7 +64,7 @@ plugins:
   - minify:
       minify_html: true
   - social:
-      cards: !ENV [CARDS, false]
+      cards: !ENV CARDS
   - glightbox:
       touchNavigation: true
       loop: false
